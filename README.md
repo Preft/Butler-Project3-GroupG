@@ -1,5 +1,5 @@
 ## <b><div align = "center">Final Project Proposal</div></b>
-<div align = "center">![genericCoffephoto.png](images/genericCoffephoto.png)</div>
+![genericCoffephoto.png](images/genericCoffephoto.png)
 
 ## <b><div align = "center"> Group G</div></b>
 
