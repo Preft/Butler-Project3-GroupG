@@ -1,5 +1,5 @@
 
-![genericCoffephoto.png](images/genericCoffephoto.png)
+![cover_art.png](images/cover_art.png)
 ## <b><div align = "center">Final Project Proposal</div></b>
 
 
