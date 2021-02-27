@@ -1,9 +1,9 @@
 Final Project Proposal
 Group G
 
-•	Paul Hoogestraat
-•	Brent Sergent
-•	Erik Fritzsche
+*	Paul Hoogestraat
+*	Brent Sergent
+*	Erik Fritzsche
 
 Topic: Coffee production and consumption
 Source: https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide
@@ -25,17 +25,17 @@ Visualizations:
 5.	A unique way to display the environmental elements that threaten coffee crops
 
 Machine Learning (with clustering)
-•	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
-•	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
-•	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
+*	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
+*	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
+*	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
 
 Proposed tasks:
 Erik:
-•	Web page
-•	Find coffee bean data for 2019 and 2020 (to see how close the model predicts)
+*	Web page
+*	Find coffee bean data for 2019 and 2020 (to see how close the model predicts)
 
 Brent:
-•	Machine Learning
+*	Machine Learning
 
 Paul:
-•	Graphs in Tableau
+*	Graphs in Tableau
