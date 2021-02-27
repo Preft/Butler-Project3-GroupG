@@ -2,7 +2,7 @@
 
 # Final Project Proposal
 
-## Group G
+# Group G
 
 *	Paul Hoogestraat
 *	Brent Sergent
