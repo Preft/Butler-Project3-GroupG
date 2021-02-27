@@ -1,3 +1,5 @@
+![genericCoffephoto.png](IMAGES/genericCoffephoto.png)
+
 Final Project Proposal
 Group G
 
