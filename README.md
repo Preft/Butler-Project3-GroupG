@@ -1,8 +1,9 @@
 ![genericCoffephoto.png](images/genericCoffephoto.png)
 
-# Final Project Proposal
 
-# Group G
+## <b><div align = "center">Final Project Proposal</div></b>
+## <b><div align = "center"> Group G</div></b>
+
 
 *	Paul Hoogestraat
 *	Brent Sergent
