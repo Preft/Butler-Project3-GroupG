@@ -10,7 +10,7 @@
 
 
 # Background:
-Global climate has started to significantly change over the last 30 years. How will this impact sensitive crops such as coffee over time? There have been many articles speculating on the impacts global warming will have on coffee production. In 2018, a specific article included coffee in the top five most sensitive crops. While coffee consumption in the U.S. has increased by 5% since 2015, I wonder how consumption has changed in other countries.
+Global climate has started to significantly change over the last 30 years. How will this impact sensitive crops such as coffee over time? There have been many articles speculating on the impacts global warming will have on coffee production. In 2018, a specific article included coffee in the top five most sensitive crops. While coffee consumption in the U.S. has increased by 5% since 2015, how has consumption changed in other countries.
 
 
 <b>Questions to answer:</b>
