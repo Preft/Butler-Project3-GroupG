@@ -2,6 +2,9 @@
 <b><div align = "center">![cover_art.png](images/cover_art.png)</div></b>
 
 <h2><b><div align = "center">Final Project Proposal: Group G</div></b></h2>
+<h3><b><div align = "center">Contributors</div></b></h3>
+<h4><b><div align = "center">Erik Fritzsche</div></b></h4>
+
 ## Contributors
 
 *	Erik Fritzsche
