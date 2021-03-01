@@ -39,6 +39,7 @@ As the global climate has started to significantly change over the last 30 years
 *	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
 
 <b>Proposed tasks:</b>
+
 Erik:
 *	Web page
 *	Find coffee bean data for 2019 and 2020 (to see how close the model predicts)
