@@ -57,8 +57,7 @@ As the global climate has started to significantly change over the last 30 years
 -	Python Pandas
 -	Tableau
 -	Machine learning library: Scikit-Learn
--	
--	
+
 ## Data Sources
 
 ## Machine Learning (with clustering)
@@ -67,9 +66,10 @@ As the global climate has started to significantly change over the last 30 years
 *	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
 
 ## Refrences
+### Data
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
 
-## Graphs (Tableau)
+### Graphs (Tableau)
 * [Coffe Producer Country Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/coffe_prodiuction_2021P3/Dashboard1?publish=yes)
 
 * [Coffe Import Country Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/Coffe_Import_2021P3/CoffeImport?publish=yes	)
