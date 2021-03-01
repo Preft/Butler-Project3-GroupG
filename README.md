@@ -1,4 +1,4 @@
-<div align = "center">![cover_art.png](images/cover_art.png)</div>
+<b><div align = "center">![cover_art.png](images/cover_art.png)</div></b>
 
 ![cover_art.png](images/cover_art.png)
 ## <b><div align = "center">Final Project Proposal</div></b>
