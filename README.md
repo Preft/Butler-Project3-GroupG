@@ -5,17 +5,16 @@
 <h2><b><div align = "center">Final Project Proposal: Group G</div></b></h2>
 
 
+### Background:
+As the global climate has started to significantly change over the last 30 years I wonder how this has impacted one of the most sensitive crops; coffee. Over the years there have been many articles speculating the impacts global warming will have on coffee production. In 2018, a specific article included coffee in the top five most sensitive crops. While coffee consumption in the U.S. has increased by 5% since 2015, I wonder how consumption has changed in other countries.
 
 
-*	Paul Hoogestraat
-*	Brent Sergent
-*	Erik Fritzsche
 
 <b>Topic</b>: Coffee Production and Consumption
 
 <b>Source:</b> [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
 
-As the global climate has started to significantly change over the last 30 years I wonder how this has impacted one of the most sensitive crops; coffee. Over the years there have been many articles speculating the impacts global warming will have on coffee production. In 2018, a specific article included coffee in the top five most sensitive crops. While coffee consumption in the U.S. has increased by 5% since 2015, I wonder how consumption has changed in other countries.
+
 
 <b>Questions to answer:</b>
 1.	How has the production of coffee changed (increased, decreased) from 1990 to 2018?
@@ -48,7 +47,42 @@ Brent:
 
 Paul:
 *	Graphs in Tableau
+### Process: 
+- [x] Concept design and project planning.
+- [x] Create Github Repository.
+- [x] Evaluate and obtain data sources.
 
+- [ ] Transform data into visuals
+  - [ ] Chart depicitng top 10 coffee producers since 1990
+  - [ ] Chart depicting top 10 coffee importers since 1990
+  - [ ] Graph depicting exports and imports trends over time.
+  - [ ] Graph depicting price fluctuations in retail coffee price over time
+  - [ ] map identifing coffee producing countries
+  - [ ] map identifing coffee import countries
+  
+- [ ] Evalute, design, and deploy a machine learning model
+  - [ ] Model evaluated: ?
+  - [ ] Model Optimized: ?
+  - [ ] Model Deployed: ?
+  
+
+- [ ] Design a website with the following componets:
+  - [ ] Frame objective. 
+  - [ ] Employ collected data to identify trends with viusuals.
+  - [ ] Create a vehical to demonstate outcome of machine learing model.
+  - [ ] Final analysis
+  - [ ] Refrences
+
+
+
+### Resources:
+-	HTML/CSS
+-	JavaScript
+-	JavaScript library
+	-	[ECMAScript Internationalization API](https://402.ecma-international.org/1.0/) 		
+-	Python
+-	SQL
+-	SQL lite
 
 ## Refrences
 ### Data Sources
@@ -62,3 +96,10 @@ Paul:
 * [Coffe Import Country Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/Coffe_Import_2021P3/CoffeImport?publish=yes	)
 
 * [Coffe Trend Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/coffe_trendlines_2021P3/coffe?publish=yes)
+
+## Contributors
+
+*	Erik Fritzsche
+*	Paul Hoogestraat
+*	Brent Sergent
+
