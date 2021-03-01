@@ -61,6 +61,8 @@ Data evaluated was transformed into charts and interactive visualizations employ
 *	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
 *	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
 *	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
+# Website
+A website was developed to communicate the results of this project. The objective was outline the subject matter and use visualizations and machine learning explore data related to coffee production over time.
 
 # Refrences
 ### Data
