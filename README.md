@@ -1,7 +1,6 @@
 
 <b><div align = "center">![cover_art.png](images/cover_art.png)</div></b>
 
-
 <h2><b><div align = "center">Final Project Proposal: Group G</div></b></h2>
 
 
@@ -17,6 +16,12 @@ As the global climate has started to significantly change over the last 30 years
 5.	How has the price for coffee beans changed between 1990 and 2018?
 6.	What are the main environmental changes that threaten coffee crops?
 
+## Resources:
+-	HTML/CSS/Bootstrap
+-	JavaScript	
+-	Python Pandas
+-	Tableau
+-	Machine learning library: Scikit-Learn
 
 ## Process: 
 - [x] Concept design and project planning.
@@ -40,13 +45,6 @@ As the global climate has started to significantly change over the last 30 years
   - [ ] Create a vehical to demonstate outcome of machine learing model.
   - [ ] Final analysis
   - [ ] Refrences
-
-## Resources:
--	HTML/CSS/Bootstrap
--	JavaScript	
--	Python Pandas
--	Tableau
--	Machine learning library: Scikit-Learn
 
 # Data Sources
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
