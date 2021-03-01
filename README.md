@@ -59,19 +59,17 @@ As the global climate has started to significantly change over the last 30 years
 -	Machine learning library: Scikit-Learn
 -	
 -	
-### Data Sources
+## Data Sources
 
-### Machine Learning (with clustering)
+## Machine Learning (with clustering)
 *	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
 *	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
 *	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
 
 ## Refrences
-
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
 
-
-### Graphs (Tableau)
+## Graphs (Tableau)
 * [Coffe Producer Country Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/coffe_prodiuction_2021P3/Dashboard1?publish=yes)
 
 * [Coffe Import Country Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/Coffe_Import_2021P3/CoffeImport?publish=yes	)
