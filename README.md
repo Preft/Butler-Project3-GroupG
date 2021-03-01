@@ -53,6 +53,7 @@ Data was obtained from ICO Coffee Dataset (Worldwide) hosted on Kaggle. This col
 <b><div align = "center">![kaggle_Coffe_data_header.png](images/kaggle_Coffe_data_header.png)</div></b>
 # Visualizations
 Data evaluated was transformed into charts and interactive visualizations employing Tableau. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. An example:
+
 ![historical_import_production_coffe.png](images/graphs/historical_import_production_coffe.png)
 
 # Machine Learning
