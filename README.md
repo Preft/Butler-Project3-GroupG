@@ -10,7 +10,7 @@
 
 
 # Background:
-Global climate has started to significantly change over the last 30 years. How will this impact sensitive crops such as coffee over time? There have been many articles speculating on the impacts global warming will have on coffee production. In 2018, a specific article included coffee in the top five most sensitive crops. While coffee consumption in the U.S. has increased by 5% since 2015, how has consumption changed in other countries.
+Global climate has started to significantly change over the last 30 years. How will this impact sensitive crops such as coffee over time? There have been many articles speculating on the impacts global warming will have on coffee production. In 2018, a specific article included coffee in the top five most sensitive crops. While coffee imports in the U.S. have increased since 2015, how have imports hanged in other countries.
 
 
 <b>Questions to answer:</b>
@@ -32,13 +32,13 @@ Global climate has started to significantly change over the last 30 years. How w
 - [x] Concept design and project planning.
 - [x] Create Github Repository.
 - [x] Evaluate and obtain data sources.
-- [ ] Transform data into visuals
-  - [ ] Chart depicitng top 10 coffee producers since 1990
-  - [ ] Chart depicting top 10 coffee importers since 1990
-  - [ ] Graph depicting exports and imports trends over time.
-  - [ ] Graph depicting price fluctuations in retail coffee price over time
-  - [ ] Map identifing coffee producing countries
-  - [ ] Map identifing coffee import countries  
+- [x] Transform data into visuals
+  - [x] Chart depicitng top 10 coffee producers since 1990
+  - [x] Chart depicting top 10 coffee importers since 1990
+  - [x] Graph depicting exports and imports trends over time.
+  - [x] Graph depicting price fluctuations in retail coffee price over time
+  - [x] Map identifing coffee producing countries
+  - [x] Map identifing coffee import countries  
 - [ ] Evalute, design, and deploy a machine learning model
   - [ ] Model evaluated: ?
   - [ ] Model evaluated: ?
