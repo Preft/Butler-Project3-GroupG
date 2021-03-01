@@ -53,7 +53,9 @@ As the global climate has started to significantly change over the last 30 years
 
 Data was obtained from ICO Coffee Dataset (Worldwide) hosted on Kaggle. This collection contained 13 csv files capturing distinct metrics regarding coffee economic data. Scope of files evaluated were : global production, global imports, inventories, prices-paid to growers, domestic consumption, and  retail prices.
 <b><div align = "center">![kaggle_Coffe_data_header.png](images/kaggle_Coffe_data_header.png)</div></b>
-
+# Visualizations
+Data evaluated was transformed into charts and interactive visualizations employing Tableau. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. An example:
+![historical_import_production_coffe.png](images/graphs/historical_import_production_coffe.png)
 
 # Machine Learning (with clustering)
 *	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
