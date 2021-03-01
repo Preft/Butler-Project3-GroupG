@@ -17,17 +17,9 @@ As the global climate has started to significantly change over the last 30 years
 5.	How has the price for coffee beans changed between 1990 and 2018?
 6.	What are the main environmental changes that threaten coffee crops?
 
-<b>Visualizations:</b>
-1.	A map showing the coffee producing countries
-2.	A chart showing the top 10 coffee producers since 1990
-3.	A graph to show how exports and imports have changed by country since 1990
-4.	A chart showing the change in the price of coffee beans since 1990
-5.	A unique way to display the environmental elements that threaten coffee crops
 
-<b>Machine Learning (with clustering)</b>
-*	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
-*	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
-*	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
+
+
 
 
 ### Process: 
@@ -69,8 +61,12 @@ As the global climate has started to significantly change over the last 30 years
 -	
 ### Data Sources
 
-## Refrences
+### Machine Learning (with clustering)
+*	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
+*	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
+*	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
 
+## Refrences
 
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
 
