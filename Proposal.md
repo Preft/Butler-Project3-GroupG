@@ -1,13 +1,11 @@
 # <b><div align = "center">Coffee Production and Consumption</div></b>
-<b><div align = "center">![cover_art.png](images/cover_art.png)</div></b>
-
 
 <h2><b><div align = "center">Final Project Proposal</div></b></h2>
 <b><div align = "center"><h2>Group G</h2></div></b>
 
 
 
-
+## Contributors
 *	Paul Hoogestraat
 *	Brent Sergent
 *	Erik Fritzsche
