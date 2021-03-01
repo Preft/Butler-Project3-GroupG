@@ -66,7 +66,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 *	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
 *	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
 # Website
-A website was developed to communicate the results of this project. The objective was to identify trends regarding coffee production by employing data visualizations for creating a machine learning model.
+A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.
 
 
 # Analysis
