@@ -1,4 +1,4 @@
-# <b><div align = "center">Coffee Production and Consumption</div></b>
+
 <b><div align = "center">![cover_art.png](images/cover_art.png)</div></b>
 
 
