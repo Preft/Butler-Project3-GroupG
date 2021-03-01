@@ -68,6 +68,9 @@ Data evaluated was transformed into charts and interactive visualizations employ
 # Website
 A website was developed to communicate the results of this project. The objective was to identify trends regarding coffee production by employing data visualizations and machine learning.
 
+
+# Analysis
+
 # Refrences
 ### Data
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
@@ -80,6 +83,6 @@ A website was developed to communicate the results of this project. The objectiv
 * [Coffe Trend Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/coffe_trendlines_2021P3/coffe?publish=yes)
 
 
-# Analysis:
+
 
 
