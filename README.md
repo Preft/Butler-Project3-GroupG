@@ -55,7 +55,7 @@ Data was obtained from ICO Coffee Dataset (Worldwide) hosted on Kaggle. This col
 Data evaluated was transformed into charts and interactive visualizations employing Tableau. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. An example:
 ![historical_import_production_coffe.png](images/graphs/historical_import_production_coffe.png)
 
-# Machine Learning (with clustering)
+# Machine Learning
 *	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
 *	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
 *	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
