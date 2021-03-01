@@ -3,7 +3,7 @@
 
 
 <h2><b><div align = "center">Final Project Proposal</div></b></h2>
-<h2><b><div align = "center">Group G</div></b></h2>
+<b><div align = "center"><h2>Group G</h2></div></b>
 
 
 
