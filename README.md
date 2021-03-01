@@ -19,7 +19,7 @@ Global climate has started to significantly change over the last 30 years. How w
 3.	Have exports from coffee producing countries increased or decreased between 1990 and 2018?
 4.	Have imports for coffee increased or decreased between 1990 and 2018?
 5.	How has the price for coffee beans changed between 1990 and 2018?
-6.	What are the main environmental changes that threaten coffee crops?
+6.	Can a machine learning model be developed to predict trending coffee prices?
 
 ## Resources:
 -	HTML/CSS/Bootstrap
