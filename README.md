@@ -62,11 +62,12 @@ Paul:
   
 - [ ] Evalute, design, and deploy a machine learning model
   - [ ] Model evaluated: ?
+  - [ ] Model evaluated: ?
   - [ ] Model Optimized: ?
   - [ ] Model Deployed: ?
   
 
-- [ ] Design a website with the following componets:
+- [ ] Design a website with the following objectives:
   - [ ] Frame objective. 
   - [ ] Employ collected data to identify trends with viusuals.
   - [ ] Create a vehical to demonstate outcome of machine learing model.
@@ -76,16 +77,17 @@ Paul:
 
 
 ### Resources:
--	HTML/CSS
--	JavaScript
--	JavaScript library
-	-	[ECMAScript Internationalization API](https://402.ecma-international.org/1.0/) 		
--	Python
--	SQL
--	SQL lite
+-	HTML/CSS/Bootstrap
+-	JavaScript	
+-	Python Pandas
+-	Tableau
+-	Machine learning library: Scikit-Learn
+-	
+-	
+### Data Sources
 
 ## Refrences
-### Data Sources
+
 
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
 
@@ -96,6 +98,8 @@ Paul:
 * [Coffe Import Country Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/Coffe_Import_2021P3/CoffeImport?publish=yes	)
 
 * [Coffe Trend Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/coffe_trendlines_2021P3/coffe?publish=yes)
+
+
 
 ## Contributors
 
