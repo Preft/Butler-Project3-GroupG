@@ -1,6 +1,7 @@
+# <b><div align = "center">Coffee production and consumption</div></b>
 <b><div align = "center">![cover_art.png](images/cover_art.png)</div></b>
 
-# <b><div align = "center">Coffee production and consumption</div></b>
+
 ## <b><div align = "center">Final Project Proposal</div></b>
 ##### <b><div align = "center">Group G</div></b>
 
