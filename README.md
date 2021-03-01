@@ -2,8 +2,7 @@
 <b><div align = "center">![cover_art.png](images/cover_art.png)</div></b>
 
 
-<h2><b><div align = "center">Final Project Proposal</div></b></h2>
-<b><div align = "center"><h2>Group G</h2></div></b>
+<h2><b><div align = "center">Final Project Proposal: Group G</div></b></h2>
 
 
 
