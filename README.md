@@ -4,6 +4,8 @@
 <h2><b><div align = "center">Final Project Proposal: Group G</div></b></h2>
 <h3><b><div align = "center">Contributors</div></b></h3>
 <h4><b><div align = "center">Erik Fritzsche</div></b></h4>
+<h4><b><div align = "center">Paul Hoogestraat</div></b></h4>
+<h4><b><div align = "center">	Brent Sergent</div></b></h4>
 
 ## Contributors
 
