@@ -32,8 +32,8 @@ As the global climate has started to significantly change over the last 30 years
   - [ ] Chart depicting top 10 coffee importers since 1990
   - [ ] Graph depicting exports and imports trends over time.
   - [ ] Graph depicting price fluctuations in retail coffee price over time
-  - [ ] map identifing coffee producing countries
-  - [ ] map identifing coffee import countries  
+  - [ ] Map identifing coffee producing countries
+  - [ ] Map identifing coffee import countries  
 - [ ] Evalute, design, and deploy a machine learning model
   - [ ] Model evaluated: ?
   - [ ] Model evaluated: ?
