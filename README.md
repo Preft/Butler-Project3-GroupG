@@ -5,7 +5,7 @@
 <h2><b><div align = "center">Final Project Proposal: Group G</div></b></h2>
 
 
-### Background:
+# Background:
 As the global climate has started to significantly change over the last 30 years I wonder how this has impacted one of the most sensitive crops; coffee. Over the years there have been many articles speculating the impacts global warming will have on coffee production. In 2018, a specific article included coffee in the top five most sensitive crops. While coffee consumption in the U.S. has increased by 5% since 2015, I wonder how consumption has changed in other countries.
 
 
@@ -18,11 +18,7 @@ As the global climate has started to significantly change over the last 30 years
 6.	What are the main environmental changes that threaten coffee crops?
 
 
-
-
-
-
-### Process: 
+## Process: 
 - [x] Concept design and project planning.
 - [x] Create Github Repository.
 - [x] Evaluate and obtain data sources.
@@ -49,23 +45,21 @@ As the global climate has started to significantly change over the last 30 years
   - [ ] Final analysis
   - [ ] Refrences
 
-
-
-### Resources:
+## Resources:
 -	HTML/CSS/Bootstrap
 -	JavaScript	
 -	Python Pandas
 -	Tableau
 -	Machine learning library: Scikit-Learn
 
-## Data Sources
+# Data Sources
 
-## Machine Learning (with clustering)
+# Machine Learning (with clustering)
 *	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
 *	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
 *	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
 
-## Refrences
+# Refrences
 ### Data
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
 
