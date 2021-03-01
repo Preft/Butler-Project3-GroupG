@@ -63,7 +63,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![historical_import_production_coffe.png](images/graphs/historical_import_production_coffe.png)
 <br/><br/>
 <br/><br/>
-![historic_coffe_price.png](images/graphs/historic_coffe_price.png)
+
 
 # Machine Learning
 *	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
