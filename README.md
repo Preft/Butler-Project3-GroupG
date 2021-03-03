@@ -61,6 +61,9 @@ Data was obtained from ICO Coffee Dataset (Worldwide) hosted on Kaggle. This col
 
 This is the original source data employed on the Kaggle site listed above. Provides additional detail regarding the data sets.
 
+* [Macrotrends: Historic trends in oil prices![image](https://user-images.githubusercontent.com/68931021/109752919-46aa6f00-7baf-11eb-9853-a4854de3c0fe.png)
+
+
 <br/><br/>
 # Visualizations
 Data evaluated was transformed into charts and interactive visualizations employing Tableau. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. Examples:
