@@ -26,7 +26,7 @@ Global climate has started to significantly change over the last 30 years. How w
 -	JavaScript	
 -	Python Pandas
 -	Tableau
--	Machine learning library: Scikit-Learn, Sklearn
+-	Machine learning library: Scikit-Learn
 -	Heroku
 
 ## Process: 
