@@ -26,7 +26,7 @@ Global climate has started to significantly change over the last 30 years. How w
 -	JavaScript	
 -	Python Pandas
 -	Tableau
--	Machine learning library: Scikit-Learn
+-	Machine learning library: Scikit-Learn, Sklearn
 -	Heroku
 
 ## Process: 
@@ -98,6 +98,9 @@ To be completed
 # Refrences
 
 ### Articles
+* [Predicting Coffee Prices (Nathan Mitchell)](https://ntmitchell.github.io/predicting-coffee-prices/)
+* [A Beginners Guide to Random Forest Regression (Kirshni)](https://medium.datadriveninvestor.com/random-forest-regression-9871bc9a25eb)
+* [Regression Example with RandomForestRegressor in Python](https://www.datatechnotes.com/2020/09/regression-example-with-randomforestregressor.html)
 
 ### Data
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
