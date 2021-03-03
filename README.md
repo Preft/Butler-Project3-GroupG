@@ -58,6 +58,7 @@ Data was obtained from ICO Coffee Dataset (Worldwide) hosted on Kaggle. This col
 <b><div align = "center">![kaggle_Coffe_data_header.png](images/kaggle_Coffe_data_header.png)</div></b>
 
 * [International Coffee Organization: Historical Data on the Global Coffee Trade](http://www.ico.org/new_historical.asp)
+
 This is the original source data employed on the Kaggle site listed above. Provides additional detail regarding the data sets.
 
 <br/><br/>
