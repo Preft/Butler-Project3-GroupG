@@ -40,7 +40,7 @@ Global climate has started to significantly change over the last 30 years. How w
   - [x] Map identifing coffee producing countries
   - [x] Map identifing coffee import countries  
 - [ ] Evalute, design, and deploy a machine learning model
-  - [ ] Model evaluated: ?
+  - [x] Model evaluated: Random Forest Regressor model
   - [ ] Model evaluated: ?
   - [ ] Model Optimized: ?
   - [ ] Model Deployed: ?
