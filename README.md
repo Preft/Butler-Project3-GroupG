@@ -61,11 +61,11 @@ Data was obtained from ICO Coffee Dataset (Worldwide) hosted on Kaggle. This col
 
 This is the original source data employed on the Kaggle site listed above. Provides additional detail regarding the data sets.
 
-* [Macrotrends: Historic trends in oil prices](https://www.macrotrends.net/2480/brent-crude-oil-prices-10-year-daily-chart)
+* [Macrotrends: Historic trends in Brent oil prices](https://www.macrotrends.net/2480/brent-crude-oil-prices-10-year-daily-chart)
 
 Historic data regaring Brent crude prices.
 
-* [Macrotrends: Historic trends in oil prices](https://www.macrotrends.net/2516/wti-crude-oil-prices-10-year-daily-chart)
+* [Macrotrends: Historic trends in WTI oil prices](https://www.macrotrends.net/2516/wti-crude-oil-prices-10-year-daily-chart)
 
 Historic data regaring WTI crude prices.
 
