@@ -58,14 +58,15 @@ Data was obtained from ICO Coffee Dataset (Worldwide) hosted on Kaggle. This col
 <b><div align = "center">![kaggle_Coffe_data_header.png](images/kaggle_Coffe_data_header.png)</div></b>
 
 * [International Coffee Organization: Historical Data on the Global Coffee Trade](http://www.ico.org/new_historical.asp)
+This is the original source data employed on the Kaggle site listed above. Provides additional detail regarding the data sets.
 
-Original data posted on Kaggle. Provides additional detail to data sets.
 <br/><br/>
 # Visualizations
 Data evaluated was transformed into charts and interactive visualizations employing Tableau. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. Examples:
 
 <br/><br/>
 ![historical_import_production_coffe.png](images/graphs/historical_import_production_coffe.png)
+
 <br/><br/>
 <br/><br/>
 ![historic_coffe_price.png](images/graphs/historic_coffe_price.png)
