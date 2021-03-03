@@ -51,6 +51,8 @@ Global climate has started to significantly change over the last 30 years. How w
   - [ ] Create a vehical to demonstate outcome of machine learing model.
   - [ ] Final analysis
   - [ ] Refrences
+- [ ] Integrate Heroku :
+
 
 # Data Sources
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
