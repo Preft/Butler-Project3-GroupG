@@ -10,7 +10,7 @@
 
 # Objective:
 
-Identify key global economic trends to train a machine learning model for predicting retail prices of coffee. Economic data considered will span from 1990 to 2018. The final model should be able to predict the average global retail price for a pound of coffe.
+Identify key global economic trends to train a machine learning model for predicting the retail prices of coffee. Economic data considered will span from 1990 to 2018. The final model will atempt to predict the average global retail price for a pound of coffee.
 
 ### Questions to answer:
 1.	How has the production of coffee changed (increased, decreased) from 1990 to 2018?
@@ -23,7 +23,7 @@ Identify key global economic trends to train a machine learning model for predic
 
 
 # Background:
-The International Coffe Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing.  A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices. The organization also provides global coffe retail prices which will be averaged to determine the retail price of a cup of coffe.
+The International Coffee Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing. A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices. The organization also provides global coffe retail prices which will be averaged to determine the retail price of a cup of coffe.
 
 ### Resources:
 -	HTML/CSS/Bootstrap
@@ -46,7 +46,7 @@ The International Coffe Organization (ICO) is a United Nations agency representi
   - [x] Map identifing coffee import countries  
 - [x] Evalute, design, and deploy a machine learning model
   - [x] Model evaluated: Random Forest Regressor model
-  - [x] Model evaluated: Linnear regorso model
+  - [x] Model evaluated: Linnear regression model
   - [x] Model Optimized: Random Forest Regressor model
   - [X] Model Deployed: Random Forest Regressor model
 - [X] Design a website with the following objectives:
@@ -98,7 +98,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![original_features.png](images/original_features.png)
 
 
-* A random forest regressor model was chosen over a linear regressor model bassed on having the highest accuracy. Initial results provided promising results (table 1). The five least impactful features identified by the model were removed with a significant impact to the perfomance of the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features
+* A random forest regressor model was chosen over a linear regressor model bassed on having the highest accuracy. Initial results were encouraging (Table 1). The five least impactful features identified by the model were removed with a negligible impact to the perfomance of the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features.
 
 ### Feature rankings
 ![best_features.png](images/best_features.png)
@@ -106,13 +106,17 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 ![Optimized_features.png](images/Optimized_features.png)
 
-* The final model was trained with results located in table 1. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (Graph C).
+* The final model was trained with results located in Table 1. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (Graph C).
 
-### table 1.
+### Table 1.
 |Model|Model Score|Training Score|
 |-----|-----------|--------------|
-|Random Forest 10 features  |0.96|0.89|
-|Random Forest 9 features|0.96|0.90|
+|Random Forest 10 features|0.960|0.89|
+|Random Forest 5 featrues |0.96|0.90|
+|Random Forest 6 featrues |0.96|0.88|
+|Random Forest 7 featrues |0.96|0.88|
+|Random Forest 8 featrues |0.96|0.90|
+|Final RFM (9 features) |0.96|0.90|
 
 
 ### Graph C
