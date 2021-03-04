@@ -88,3 +88,37 @@ p {
     background-color: burlywood;
   }
 
+  .source_title {
+    color: black;
+    padding-left: 30px;
+    padding-top: 30px;
+    text-align: center;
+  }
+
+h3 {
+  text-align: center;
+}
+  .source_articles {
+    text-align: center;
+  }
+
+  .source_articles ul {
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+
+  }
+
+  .source_articles li {
+    float: left;
+    padding: 2px 5px;
+    border: 1px solid black;
+  }
+
+
+  .source_data {
+    text-align: center;
+  }
+
+
+
