@@ -8,10 +8,12 @@
 <h4><b><div align = "center">	Brent Sergent</div></b></h4>
 
 
+# Objective:
+
+Identify key global economic trends to develop a machine learning model for predicting retail prices of coffee. Economic data considered will span from 1990 to 2018. The final model should be able to predict the average global retail price of a pound of coffe.
 
 # Background:
-Global climate has started to significantly change over the last 30 years. How will this impact sensitive crops such as coffee over time? There have been many articles speculating on the impacts global warming will have on coffee production. In 2018, a specific article included coffee in the top five most sensitive crops. While coffee imports in the U.S. have increased since 2015, how have imports hanged in other countries.
-
+The International Coffe Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing.  A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices.
 
 <b>Questions to answer:</b>
 1.	How has the production of coffee changed (increased, decreased) from 1990 to 2018?
