@@ -101,7 +101,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ### Feature rankings
 ![best_features.png](images/best_features.png)
 
-### Optimized Features
+
 ![Optimized_features.png](images/Optimized_features.png)
 
 * The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (graph x).
