@@ -92,8 +92,13 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![data_graphic.png](images/data_graphic.png)
 * Data was organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). Each category of data was treated equally. 10 features were initially chosen from the data categories.
 
-* A random forest regressor model was chosen over a linear regressor model for highest accuracy. Initial results provided promising scores (table A). The five least impactful features identified by the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features
+![original_features.png](images/original_features.png)
 
+![best_features.png](images/best_features.png)
+
+
+* A random forest regressor model was chosen over a linear regressor model for highest accuracy. Initial results provided promising scores (table A). The five least impactful features identified by the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features
+![Optimized_features.png](images/Optimized_features.png)
 * The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (graph x).
 
 
