@@ -106,7 +106,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 ![Optimized_features.png](images/Optimized_features.png)
 
-* The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (graph C).
+* The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (Graph C).
 
 ### Graph C
 ![Economic_model.png](images/graphs/Economic_model.png)
