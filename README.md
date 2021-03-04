@@ -112,13 +112,14 @@ Data evaluated was transformed into charts and interactive visualizations employ
 |Model|Model Score|Training Score|
 |-----|-----------|--------------|
 |Random Forest 10 features|0.9592|0.9036|
+|Random Forest 1 featrues |0.9250|0.8262|
 |Random Forest 2 featrues |0.9486|0.8712|
 |Random Forest 3 featrues |0.9561|0.9139|
-|Random Forest 4 featrues |||
-|Random Forest 5 featrues |0.96|0.90|
-|Random Forest 6 featrues |0.96|0.88|
-|Random Forest 7 featrues |0.96|0.88|
-|Random Forest 8 featrues |0.96|0.90|
+|Random Forest 4 featrues |0.9598|0.9292|
+|Random Forest 5 featrues |0.9591|0.9378|
+|Random Forest 6 featrues |0.9580|0.9214|
+|Random Forest 7 featrues |0.9557|0.9098|
+|Random Forest 8 featrues |0.9590|0.8973|
 |Final RFM (9 features) |0.9577|0.0.9074|
 
 
