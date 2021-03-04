@@ -93,10 +93,12 @@ p {
     padding-left: 30px;
     padding-top: 30px;
     text-align: center;
+    
   }
 
-h3 {
-  text-align: center;
+  .source_subtitles {
+    text-align: center;
+    text-decoration: underline;
 }
   .source_articles {
     text-align: center;
@@ -104,20 +106,17 @@ h3 {
 
   .source_articles ul {
     justify-content: center;
-    margin: 0;
-    padding: 0;
-
-  }
-
-  .source_articles li {
-    float: left;
-    padding: 2px 5px;
-    border: 1px solid black;
+    list-style: none;
   }
 
 
   .source_data {
     text-align: center;
+  }
+
+  .source_data ul {
+    justify-content: center;
+    list-style: none;
   }
 
 
