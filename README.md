@@ -90,7 +90,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![historic_coffe_price.png](images/graphs/historic_coffe_price.png)
 
 # Machine Learning
-
+##Economic Model
 ![data_graphic.png](images/data_graphic.png)
 * Data was organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). Each category of data was treated equally. 10 features were initially chosen from the data categories.
 
@@ -117,6 +117,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ### Graph C
 ![Economic_model.png](images/graphs/Economic_model.png)
 
+##Environmental Model (-Brent)
 
 # Website
 A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.
