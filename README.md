@@ -81,12 +81,12 @@ Historic data regarding WTI crude prices.
 Data evaluated was transformed into charts and interactive visualizations employing Tableau. Economic trends were identified from the visualizations and incorporated into designing a data structure for machine learning. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. Examples:
 
 <br/><br/>
-#### graph 1
+#### Graph A
 ![historical_import_production_coffe.png](images/graphs/historical_import_production_coffe.png)
 
 <br/><br/>
 <br/><br/>
-### graph 2
+### Graph B
 ![historic_coffe_price.png](images/graphs/historic_coffe_price.png)
 
 # Machine Learning
@@ -106,9 +106,9 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 ![Optimized_features.png](images/Optimized_features.png)
 
-* The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (graph 3).
+* The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (graph C).
 
-### graph 3
+### Graph C
 ![Economic_model.png](images/graphs/Economic_model.png)
 
 
