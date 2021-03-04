@@ -58,19 +58,16 @@ p {
     color: black;
     padding-left: 30px;
     padding-top: 30px;
-  }
-
-  .process_para {
-    color: black;
-    font-size: 24px;
-    font-weight: bold;
-    width: 800px;
-    text-align: justify;
-    padding-left: 30px;
-    padding-top: 30px;
     padding-bottom: 30px;
   }
 
+  .process_step {
+    padding-left: 30px;
+  }
+
+  .paragraph {
+    color: black;
+  }
 
   .results {
     background-color: burlywood;

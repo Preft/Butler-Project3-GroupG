@@ -31,16 +31,49 @@
     </ul>
 
     <h1 class="process_page_title">The Process</h1>
-    <p class="process_para">fksdfjslkjfjskfjsjfkdjf;alj</p>
+    <!-- <p class="process_para">fksdfjslkjfjskfjsjfkdjf;alj</p> -->
 
-    <ul class="process_list">
-      <li>Concept design and project planning</li>
-      <li>Create Github Repository</li>
-      <li>Evaluate and obtain data sources</li>
-      <li>Transform data into visuals</li>
-      <li>Evalute, design, and deploy a machine learning model</li>
-      <li>Design a website</li>
-    </ul>
+    <h3 class="process_step">Concept design and project planning</h3>
+    <div>
+      <p></p>
+    </div>
+    <br>
+    <h3 class="process_step">Evaluate and obtain data sources</h3>
+    <div>
+      <p></p>
+    </div>
+    <br>
+    <h3 class="process_step">Transform data into visuals</h3>
+    <div>
+      <p class="paragraph">Data evaluated was transformed into charts and interactive visualizations employing Tableau. Economic trends were identified from the visualizations and incorporated into designing a data structure for machine learning. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references</p>
+    </div>
+    <br>
+    <h3 class="process_step">Evalute, design, and deploy a machine learning model</h3>
+    <div>
+      <p class="paragraph">Brent's model
+        Using the ICO data, Brent used 10 categories (disappearance(consumption), domestic-consumption, exports, stocks, imports, indicator prices, inventories, prices paid to growers, retail prices, and production) to create a model. This model would attempt to predict changes to the retail price of coffee beans
+        when there were changes to exports, prices paid to growers, production, and consumption. In the end, it was difficult to find a strong correlation between these data features. The lack of a strong correlation lead to low testing scores.
+        Therefore, Brent looked for an additional data feature to add to the model, which turned out to be weather. Using data from World Bank temperature and precipitation were added as features to the model. The weather data only included the years 1990 to 2012 which meant Unfortunately, the weather data had a low positive correlation to predict it from 2013-2018 to fill in missing data
+        created model with that data to predict average retail price
+        they aligned
+        70-90 percent correct
+        using the positive correlations to predict the future years
+        
+      </p>
+      <p class="paragraph">Refactor</p>
+      <p class="paragraph">Data was organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). Each category of data was treated equally. 10 features were initially chosen from the data categories.
+        A random forest regressor model was chosen over a linear regressor model for highest accuracy. Initial results provided promising scores (table A). The five least impactful features identified by the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features.
+        The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model.
+      </p>
+    </div>
+    <br>
+    <h3 class="process_step">Design a website</h3>
+    <div>
+      <p></p>
+    </div>
+
+
+
 </body>
 
 </html>
