@@ -46,7 +46,7 @@ The International Coffee Organization (ICO) is a United Nations agency represent
   - [x] Map identifing coffee import countries  
 - [x] Evalute, design, and deploy a machine learning model
   - [x] Model evaluated: Random Forest Regressor model
-  - [x] Model evaluated: Linnear regorso model
+  - [x] Model evaluated: Linnear regression model
   - [x] Model Optimized: Random Forest Regressor model
   - [X] Model Deployed: Random Forest Regressor model
 - [X] Design a website with the following objectives:
