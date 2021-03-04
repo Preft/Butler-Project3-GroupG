@@ -108,6 +108,16 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 * The final model was trained with results located in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (Graph C).
 
+### table A.
+|Model|koi disposition|Score|recall|f1-score|Support|
+|-----|---------------|-----|------|--------|-------|
+|Random Forest|False Positive|0.98|1.00|0.99|853|
+|SVC|False Positive|0.96|0.98|0.97|853|
+|Random Forest|Candidate|0.80|0.73|0.77|411|
+|SVC|Candidate|0.83|0.69|0.75|411|
+|Random Forest|Confirmed CANDIDATE|0.79|0.83| 0.81|484|
+|SVC|Confirmed CANDIDATE|0.78|0.86|0.82|484|
+
 ### Graph C
 ![Economic_model.png](images/graphs/Economic_model.png)
 
