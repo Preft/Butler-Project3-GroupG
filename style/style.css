@@ -1,0 +1,90 @@
+  .main {
+    background-color: burlywood;
+  }
+
+  .main_title {
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  
+  .nav {
+    justify-content: center;
+    font-weight: bold;
+  }
+
+p {
+    color:whitesmoke;
+    width: 800px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .history {
+    background-image: url('../resources/coffee_bckgrnd.jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  .page_title {
+    color: whitesmoke;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.b_title {
+  color: whitesmoke;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.ol_list {
+  color:whitesmoke;
+  padding-top: 10px;
+}
+
+  .process {
+    /*background-image: url('../resources/coffee_process.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;*/
+    background-color: burlywood;
+  }
+
+  .process_page_title {
+    color: black;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+
+  .process_para {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    width: 800px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+
+  .results {
+    background-color: burlywood;
+  }
+
+  .machine_learning {
+    /*background-image: url('../resources/mach_lrning.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;*/
+    background-color: burlywood;
+  }
+
+  .source_page {
+    background-color: burlywood;
+  }
+
