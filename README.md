@@ -100,9 +100,6 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 * A random forest regressor model was chosen over a linear regressor model bassed on having the highest accuracy. Optimization of the model was evaluated by removing features bassed on accuracy of model and training scores.  (Table 1). After exploring multiple combinations of features three models were created. The first model contained nine-features with the least impactful one removed. The second model included the ICO Composite and the year. The final model contained ISO composite, year, and Brent Annual average. The last two models will be considered for web deployment due to simplicity considerations. Graph C contrasts the nine-feature model predicted vs observed data. The three models were saved in this repository.
 
-### Feature rankings
-![best_features.png](images/best_features.png)
-
 
 ![Optimized_features.png](images/Optimized_features.png)
 
