@@ -88,6 +88,8 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![historic_coffe_price.png](images/graphs/historic_coffe_price.png)
 
 # Machine Learning
+
+![data_graphic.png](images/graphs/data_graphic.png)
 * Data was organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). Each category of data was treated equally. 10 features were initially chosen from the data categories.
 
 * A random forest regressor model was chosen over a linear regressor model for highest accuracy. Initial results provided promising scores (table A). The five least impactful features identified by the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features
