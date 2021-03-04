@@ -23,7 +23,7 @@ Identify key global economic trends to train a machine learning model for predic
 
 
 # Background:
-The International Coffe Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing.  A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices. The site also includes global coffe retail prices which will be averaged to determine the retail price of a cup of coffe.
+The International Coffe Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing.  A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices. The organization also provides global coffe retail prices which will be averaged to determine the retail price of a cup of coffe.
 
 ### Resources:
 -	HTML/CSS/Bootstrap
