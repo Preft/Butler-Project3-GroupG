@@ -18,7 +18,8 @@ Identify key global economic trends to train a machine learning model for predic
 3.	Have exports from coffee producing countries increased or decreased between 1990 and 2018?
 4.	Have imports for coffee increased or decreased between 1990 and 2018?
 5.	How has the price for coffee beans changed between 1990 and 2018?
-6.	Can a machine learning model be developed to predict trending coffee prices?
+6.	Do energy prices impact coffe prices?
+7.	Can a machine learning model be developed to predict trending coffee prices?
 
 
 # Background:
