@@ -10,7 +10,7 @@
 
 # Objective:
 
-Identify key global economic trends to train a machine learning model for predicting the retail prices of coffee. Economic data considered will span from 1990 to 2018. The final model will atempt to predict the average global retail price for a pound of coffee.
+Identify key global economic trends to train a machine learning model for predicting the retail prices of coffee. Economic data considered will span from 1990 to 2018. The final model will attempt to predict the average global retail price for a pound of coffee.
 
 ### Questions to answer:
 1.	How has the production of coffee changed (increased, decreased) from 1990 to 2018?
@@ -18,12 +18,12 @@ Identify key global economic trends to train a machine learning model for predic
 3.	Have exports from coffee producing countries increased or decreased between 1990 and 2018?
 4.	Have imports for coffee increased or decreased between 1990 and 2018?
 5.	How has the price for coffee beans changed between 1990 and 2018?
-6.	Do energy prices impact coffe prices?
+6.	Do energy prices impact coffee prices?
 7.	Can a machine learning model be developed to predict trending coffee prices?
 
 
 # Background:
-The International Coffee Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing. A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices. The organization also provides global coffe retail prices which will be averaged to determine the retail price of a cup of coffe.
+The International Coffee Organization (ICO) is a United Nations agency representing the world’s major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing. A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffee prices. The organization also provides global coffee retail prices which will be averaged to determine the retail price for a pound of coffee.
 
 ### Resources:
 -	HTML/CSS/Bootstrap
