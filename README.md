@@ -22,11 +22,9 @@ Identify key global economic trends to train a machine learning model for predic
 
 
 # Background:
-The International Coffe Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing.  A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices.
+The International Coffe Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing.  A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices. The site also includes global coffe retail prices which will be averaged to determine the retail price of a cup of coffe.
 
-
-
-## Resources:
+### Resources:
 -	HTML/CSS/Bootstrap
 -	JavaScript	
 -	Python Pandas
@@ -34,7 +32,7 @@ The International Coffe Organization (ICO) is a United Nations agency representi
 -	Machine learning library: Scikit-Learn
 -	Heroku
 
-## Process: 
+### Process: 
 - [x] Concept design and project planning.
 - [x] Create Github Repository.
 - [x] Evaluate and obtain data sources.
@@ -45,12 +43,12 @@ The International Coffe Organization (ICO) is a United Nations agency representi
   - [x] Graph depicting price fluctuations in retail coffee price over time
   - [x] Map identifing coffee producing countries
   - [x] Map identifing coffee import countries  
-- [ ] Evalute, design, and deploy a machine learning model
+- [x] Evalute, design, and deploy a machine learning model
   - [x] Model evaluated: Random Forest Regressor model
-  - [ ] Model evaluated: ?
-  - [ ] Model Optimized: ?
-  - [ ] Model Deployed: ?
-- [ ] Design a website with the following objectives:
+  - [x] Model evaluated: Linnear regorso model
+  - [x] Model Optimized: Random Forest Regressor model
+  - [X] Model Deployed: Random Forest Regressor model
+- [X] Design a website with the following objectives:
   - [ ] Frame objective. 
   - [ ] Employ collected data to identify trends with viusuals.
   - [ ] Create a vehical to demonstate outcome of machine learing model.
