@@ -12,9 +12,6 @@
 
 Identify key global economic trends to train a machine learning model for predicting retail prices of coffee. Economic data considered will span from 1990 to 2018. The final model should be able to predict the average global retail price for a pound of coffe.
 
-# Background:
-The International Coffe Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing.  A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices.
-
 <b>Questions to answer:</b>
 1.	How has the production of coffee changed (increased, decreased) from 1990 to 2018?
 2.	What are the top 10 coffee producing countries from 1990 thru 2018?
@@ -22,6 +19,12 @@ The International Coffe Organization (ICO) is a United Nations agency representi
 4.	Have imports for coffee increased or decreased between 1990 and 2018?
 5.	How has the price for coffee beans changed between 1990 and 2018?
 6.	Can a machine learning model be developed to predict trending coffee prices?
+
+
+# Background:
+The International Coffe Organization (ICO) is a United Nations agency representing the worlds major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing.  A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffe prices.
+
+
 
 ## Resources:
 -	HTML/CSS/Bootstrap
