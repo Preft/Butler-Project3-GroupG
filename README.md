@@ -12,7 +12,7 @@
 
 Identify key global economic trends to train a machine learning model for predicting retail prices of coffee. Economic data considered will span from 1990 to 2018. The final model should be able to predict the average global retail price for a pound of coffe.
 
-<b>Questions to answer:</b>
+### Questions to answer:
 1.	How has the production of coffee changed (increased, decreased) from 1990 to 2018?
 2.	What are the top 10 coffee producing countries from 1990 thru 2018?
 3.	Have exports from coffee producing countries increased or decreased between 1990 and 2018?
