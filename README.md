@@ -98,7 +98,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![original_features.png](images/original_features.png)
 
 
-* A random forest regressor model was chosen over a linear regressor model bassed on having the highest accuracy. Initial results were encouraging (Table 1). The five least impactful features identified by the model were removed with a negligible impact to the perfomance of the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features.
+* A random forest regressor model was chosen over a linear regressor model bassed on having the highest accuracy. Optimization of the model was evaluated by removing features (Table 1). After exploring multiple combinations of features three models were created. The first model contained nine-features with the least impactful one removed. The second model included the ICO Composite and the year. The final model contained ISO composite, year, and Brent Annual average. The last two models will be considered for web deployment due to simplicity considerations. Graph C contrasts the nine-feature model predicted vs observed data. The three models were saved and can be located in the repository.
 
 ### Feature rankings
 ![best_features.png](images/best_features.png)
