@@ -102,6 +102,9 @@ Data evaluated was transformed into charts and interactive visualizations employ
 * The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (graph x).
 
 
+![Economic_model.png](images/graphs/Economic_model.png)
+
+
 # Website
 A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.
 
