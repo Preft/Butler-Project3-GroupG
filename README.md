@@ -116,7 +116,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 |Random Forest 6 featrues |0.9580|0.9214|
 |Random Forest 7 featrues |0.9557|0.9098|
 |Random Forest 8 featrues |0.9590|0.8973|
-|Final RFM (9 features) |0.9577|0.9074|
+|Final RFM (9 features) |0.9597|0.8959|
 
 
 ### Graph C
