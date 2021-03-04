@@ -131,7 +131,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.
 
 
-# Analysis
+# Conclusion
 
 To be completed
 
