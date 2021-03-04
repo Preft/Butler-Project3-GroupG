@@ -111,8 +111,9 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ### table 1.
 |Model|Model Score|Training Score|
 |-----|-----------|--------------|
-|Random Forest 10 features  |0.96|0.89|
-|Random Forest 9 features|0.96|0.90|
+|Random Forest 10 features|0.96|0.89|
+|Random Forest 5 featrues |0.96|0.90|
+|Random Forest 9 features |0.96|0.90|
 
 
 ### Graph C
