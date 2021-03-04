@@ -98,7 +98,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![original_features.png](images/original_features.png)
 
 
-* A random forest regressor model was chosen over a linear regressor model bassed on having the highest accuracy. Initial results provided promising results (Table 1). The five least impactful features identified by the model were removed with a negligible impact to the perfomance of the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features.
+* A random forest regressor model was chosen over a linear regressor model bassed on having the highest accuracy. Initial results were encouraging (Table 1). The five least impactful features identified by the model were removed with a negligible impact to the perfomance of the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features.
 
 ### Feature rankings
 ![best_features.png](images/best_features.png)
