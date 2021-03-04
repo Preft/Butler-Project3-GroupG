@@ -112,10 +112,6 @@ Data evaluated was transformed into charts and interactive visualizations employ
 |Model|Model Score|Training Score|
 |-----|-----------|--------------|
 |Random Forest 10 features|0.960|0.89|
-|Random Forest 1 features|0.956|0.880|
-|Random Forest 2 featrues |0.957|0.88|
-|Random Forest 3 featrues |0.956|0.939|
-|Random Forest 4 featrues |0.96|0.92|
 |Random Forest 5 featrues |0.96|0.90|
 |Random Forest 6 featrues |0.96|0.88|
 |Random Forest 7 featrues |0.96|0.88|
