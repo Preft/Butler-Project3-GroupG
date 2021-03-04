@@ -98,7 +98,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![original_features.png](images/original_features.png)
 
 
-* A random forest regressor model was chosen over a linear regressor model bassed on having the highest accuracy. Initial results provided promising results (table 1). The five least impactful features identified by the model were removed with a negligible impact to the perfomance of the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features.
+* A random forest regressor model was chosen over a linear regressor model bassed on having the highest accuracy. Initial results provided promising results (Table 1). The five least impactful features identified by the model were removed with a negligible impact to the perfomance of the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features.
 
 ### Feature rankings
 ![best_features.png](images/best_features.png)
@@ -106,9 +106,9 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 ![Optimized_features.png](images/Optimized_features.png)
 
-* The final model was trained with results located in table 1. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (Graph C).
+* The final model was trained with results located in Table 1. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (Graph C).
 
-### table 1.
+### Table 1.
 |Model|Model Score|Training Score|
 |-----|-----------|--------------|
 |Random Forest 10 features|0.96|0.89|
