@@ -78,7 +78,7 @@ Historic data regarding WTI crude prices.
 
 <br/><br/>
 # Visualizations
-Data evaluated was transformed into charts and interactive visualizations employing Tableau. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. Examples:
+Data evaluated was transformed into charts and interactive visualizations employing Tableau. Economic trends were identified from the visualizations and incorporated into designing a data structure for machine learning. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. Examples:
 
 <br/><br/>
 ![historical_import_production_coffe.png](images/graphs/historical_import_production_coffe.png)
@@ -88,9 +88,13 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![historic_coffe_price.png](images/graphs/historic_coffe_price.png)
 
 # Machine Learning
-*	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
-*	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
-*	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
+* Data was organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). Each category of data was treated equally. 10 features were initially chosen from the data categories.
+
+* A random forest regressor model was chosen over a linear regressor model for highest accuracy. Initial results provided promising scores (table A). The five least impactful features identified by the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features
+
+* The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model (graph x).
+
+
 # Website
 A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.
 
