@@ -128,12 +128,14 @@ An additional model was also considered to determine ICO composite pricing basse
 
 < To be completed by Brent>
 
-< From origianl Read.me now found in proposal file >
+
 
 <b>Machine Learning (with clustering)</b>
 *	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
 *	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
 *	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
+
+< From origianl Read.me now found in proposal file >
 
 Due to project constraints this model was not prosecuted. 
 
