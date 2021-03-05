@@ -135,7 +135,7 @@ An additional model was also considered to determine ICO composite pricing basse
 *	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
 *	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
 
-< From origianl Read.me now found in proposal file >
+< From original Read.me. Now located in proposal file >
 
 Due to project constraints this model was not prosecuted. 
 
