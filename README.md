@@ -94,7 +94,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ## Economic Model
 
 ![data_graphic.png](images/data_graphic.png)
-* Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets were composed of metric categories partitioned by year and country. Categories were averaged or summed by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.
+* Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets were composed of metric categories partitioned by year and country. Categories were averaged (i.e. Price) or summed (i.e. crop production) by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.
 
 ### Top Features
 ![original_features.png](images/original_features.png) 
@@ -128,6 +128,12 @@ An additional model was also considered to determine ICO composite pricing basse
 
 < To be completed by Brent>
 
+< From origianl Read.me now found in proposal file >
+
+<b>Machine Learning (with clustering)</b>
+*	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
+*	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
+*	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
 
 Due to project constraints this model was not prosecuted. 
 
