@@ -94,7 +94,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ## Economic Model
 
 ![data_graphic.png](images/data_graphic.png)
-* Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets possessed metric categories partitioned by year and country. Categories were averaged or summed by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.
+* Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets were composed of metric categories partitioned by year and country. Categories were averaged or summed by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.
 
 ### Top Features
 ![original_features.png](images/original_features.png) 
@@ -122,7 +122,15 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ### Graph C
 ![Economic_model.png](images/graphs/Economic_model.png)
 
-## Environmental Model (-Brent)
+## Environmental Model 
+
+An additional model was also considered to determine ICO composite pricing bassed on environmental factors (weather)
+
+< To be completed by Brent>
+
+
+Due to project constraints this model was not prosecuted. 
+
 
 # Website
 A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.
