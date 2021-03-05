@@ -66,7 +66,7 @@ Data was obtained from ICO Coffee Dataset (Worldwide) hosted on Kaggle. This col
 
 * [International Coffee Organization: Historical Data on the Global Coffee Trade](http://www.ico.org/new_historical.asp)
 
-This is the original source data employed on the Kaggle site listed above. Provides additional detail regarding the data sets.
+Original data source employed on Kaggle site listed above. Provides additional detail regarding the data sets.
 
 * [Macrotrends: Historic trends in Brent oil prices](https://www.macrotrends.net/2480/brent-crude-oil-prices-10-year-daily-chart)
 
@@ -94,7 +94,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ## Economic Model
 
 ![data_graphic.png](images/data_graphic.png)
-* Data was organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). Each category of data was treated equally. 10 features were initially chosen from the data categories.
+* Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets possessed metric categories partitioned by year and country. Categories were averaged or summed by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.
 
 ### Top Features
 ![original_features.png](images/original_features.png) 
