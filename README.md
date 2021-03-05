@@ -86,7 +86,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 <br/><br/>
 <br/><br/>
-### Graph B
+#### Graph B
 ![historic_coffe_price.png](images/graphs/historic_coffe_price.png)
 
 # Machine Learning
@@ -96,15 +96,15 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ![data_graphic.png](images/data_graphic.png)
 * Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets were composed of metric categories partitioned by year and country. Categories were averaged (i.e. price) or summed (i.e. crop production) by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.
 
-### Top Features
+#### Top Features
 ![original_features.png](images/original_features.png) 
 
 * A random forest regressor model (sklearn library) was chosen over a linear regression, model bassed on having the highest accuracy. Optimization of the model was evaluated by removing features bassed on accuracy of model and training scores (Table 1). After exploring multiple combinations of features three models were created. The first model contained nine-features with the least impactful one removed. The second model included the ICO Composite and the year. The final model contained ISO composite, year, and Brent annual average. The last two models will be considered for web deployment due to simplicity considerations. Graph C contrasts the nine-feature model predicted global retail price vs observed global retail price. The three models were saved in this repository.
 
-### Feature Contribution
+#### Feature Contribution
 ![best_features.png](images/best_features.png)
 
-### Table 1.
+#### Table 1.
 |Model|Model Score|Training Score|
 |-----|-----------|--------------|
 |Random Forest 10 features|0.9592|0.9036|
@@ -119,7 +119,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 |Final RFM (9 features) |0.9597|0.8959|
 
 
-### Graph C
+#### Graph C
 ![Economic_model.png](images/graphs/Economic_model.png)
 
 ## Environmental Model 
