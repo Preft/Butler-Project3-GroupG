@@ -94,7 +94,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 ## Economic Model
 
 ![data_graphic.png](images/data_graphic.png)
-* Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets were composed of metric categories partitioned by year and country. Categories were averaged (i.e. Price) or summed (i.e. crop production) by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.
+* Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets were composed of metric categories partitioned by year and country. Categories were averaged (i.e. price) or summed (i.e. crop production) by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.
 
 ### Top Features
 ![original_features.png](images/original_features.png) 
