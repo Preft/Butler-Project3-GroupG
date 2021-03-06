@@ -16,6 +16,7 @@ app = Flask(__name__)
 
 # prediction function 
 def ValuePredictor(to_predict_list): 
+    print("Hello")
     to_predict = np.array([to_predict_list])
     with open("pickel2_Economic_web_model_2_inputs.pickle", "rb") as f:
         loaded_model = pickle.load(f)
