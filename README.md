@@ -48,14 +48,14 @@ The International Coffee Organization (ICO) is a United Nations agency represent
   - [x] Model evaluated: Random Forest Regressor model (sklearn library)
   - [x] Model evaluated: Linnear regression model
   - [x] Model Optimized: Random Forest Regressor model
-  - [ ] Model Deployed: Random Forest Regressor model
+  - [x] Model Deployed: Random Forest Regressor model
 - [X] Design a website with the following objectives:
-  - [ ] Frame objective. 
-  - [ ] Employ collected data to identify trends with viusuals.
-  - [ ] Create a vehical to demonstate outcome of machine learing model.
-  - [ ] Final analysis
-  - [ ] Refrences
-- [ ] Integrate Heroku :
+  - [x] Frame objective. 
+  - [x] Employ collected data to identify trends with viusuals.
+  - [x] Create a vehical to demonstate outcome of machine learing model.
+  - [x] Final analysis
+  - [x] Refrences
+- [x] Integrate Heroku :
 
 
 # Data Sources
