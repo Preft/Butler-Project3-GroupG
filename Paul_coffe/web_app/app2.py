@@ -2,7 +2,7 @@
 from flask import Flask, render_template, request
 import pickle
 import numpy as np
-import pickle
+
 
 
 
@@ -17,20 +17,20 @@ app = Flask(__name__)
 # prediction function 
 def ValuePredictor(to_predict_list): 
     to_predict = np.array([[to_predict_list]])
-    #loaded_model = pickle.load(open("ico_coffe.sav", "rb")) 
-    #result = loaded_model.predict(to_predict) 
-    #return result
+    loaded_model = pickle.load(open("z2_Economic_web_model_2_inputs.sav", "rb")) 
+    result = loaded_model.predict(to_predict) 
+    return result
     ####   For testing
-    return to_predict
+    #return to_predict
 
 
 
 def BrentPredictor(to_predict_list): 
     to_predict_brent = np.array([[to_predict_list]])
-    #loaded_model_brent = pickle.load(open("00_3_Econ_model_3features.ipynb", "rb")) 
-    #result_brent = loaded_model_brent.predict(to_predict_brent) 
-    #return result_brent
-    return to_predict_brent    
+    loaded_model_brent = pickle.load(open("z3_Economic_web_model_3_inputs.sav", "rb")) 
+    result_brent = loaded_model_brent.predict(to_predict_brent) 
+    return result_brent
+    #return to_predict_brent    
 
 # create route that renders index.html template
 @app.route("/")
