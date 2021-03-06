@@ -16,21 +16,22 @@ app = Flask(__name__)
 
 # prediction function 
 def ValuePredictor(to_predict_list): 
-    to_predict = np.array([[to_predict_list]])
-    loaded_model = pickle.load(open("z2_Economic_web_model_2_inputs.sav", "rb")) 
+    to_predict = np.array([to_predict_list])
+    with open("pickel2_Economic_web_model_2_inputs.pickle", "rb") as f:
+        loaded_model = pickle.load(f)
     result = loaded_model.predict(to_predict) 
     return result
-    ####   For testing
-    #return to_predict
+
 
 
 
 def BrentPredictor(to_predict_list): 
-    to_predict_brent = np.array([[to_predict_list]])
-    loaded_model_brent = pickle.load(open("z3_Economic_web_model_3_inputs.sav", "rb")) 
+    to_predict_brent = np.array([to_predict_list])
+    with open("pickel3_Economic_web_model_3_inputs.pickle", "rb") as g:
+        loaded_model_brent = pickle.load(g) 
     result_brent = loaded_model_brent.predict(to_predict_brent) 
     return result_brent
-    #return to_predict_brent    
+     
 
 # create route that renders index.html template
 @app.route("/")
