@@ -342,6 +342,7 @@ ol li{
 .machln-container {
   background-color: #39414f;
   padding-bottom: 20px;
+  border-radius: 25px;
 }
 
 .machln-title {
@@ -373,8 +374,18 @@ ol li{
   padding-bottom: 40px;
 }
 
+.machln-app-link a {
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+  color: burlywood;
+  list-style-type: none;
+}
 
-
+.machln-app-link a:hover {
+  background-color: burlywood;
+  color: #39414f;
+  border-radius: 5px;
 
 /*////////////////////////////////////////////////*/
 /*//////////////// Sources Page //////////////////*/
