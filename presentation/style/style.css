@@ -360,6 +360,11 @@ ol li{
   width: 80%;
 }
 
+.machln-images-primary-secondary {
+  height: 350px;
+  width: 90%;
+}
+
 .machln-images-primary-header-text {
   text-align: center;
   padding-left: 60px;
@@ -379,6 +384,10 @@ ol li{
 
 .ml-title-padd {
   padding-bottom: 40px;
+}
+
+.ml-title-padd-econ {
+  padding-bottom: 20px;
 }
 
 .machln-app-link a {
@@ -429,6 +438,11 @@ ol li{
 
 .title-machln {
   padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.title-machln-header {
+  padding-bottom: 20px;
   padding-top: 20px;
 }
 
