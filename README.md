@@ -124,20 +124,11 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 ## Environmental Model 
 
-An additional model was also considered to determine ICO composite pricing bassed on environmental factors (weather)
+An additional model was also considered to determine ICO composite pricing bassed on environmental factors combined with supply & demand.
 
-< To be completed by Brent>
-
-
-
-<b>Machine Learning (with clustering)</b>
-*	Using the historical export, consumption and trading/stock data for each country we can determine whether the future price of coffee beans would increase or decrease by country.
-*	If the future price of coffee is increasing in the exporting countries, will there be a future price increase for coffee in the importing countries.
-*	And vice versa, if the future price of coffee is decreasing in the exporting countries, will there be a future price decrease for coffee in the importing countries.
-
-< From original Read.me. Now located in proposal file >
-
-Due to project constraints this model was not prosecuted. 
+<b>Machine Learning (with linear regression)</b>
+* The model attempts to take the average of a year for all features and predict the average retail price of the importing countries
+* The model fails due to the fluctuations and adjustments of the market are  not accurately taken into account by the yearly averages. The linear coefficients are just a maginifications of the data we kept at the exspense of the fluctuations.
 
 
 # Website
