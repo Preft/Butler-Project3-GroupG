@@ -10,8 +10,25 @@
     );
   }
 
+  body, html {
+    height: 100%;
+  }
+
+  .nav {
+    margin-bottom: 30px;
+    background-color: #39414f;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
   .nav-link {
     color: burlywood;
+  }
+  .nav-link:hover {
+    color: #39414f;
+    background-color: burlywood;
   }
 
   .main_title {
@@ -29,12 +46,7 @@
   }
 
 p {
-    color:whitesmoke;
-    width: 800px;
-    text-align: justify;
-    padding-left: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    color:burlywood;
   }
 
   .history {
@@ -44,44 +56,44 @@ p {
   }
 
   .page_title {
-    color: whitesmoke;
+    color: burlywood;
     padding-left: 30px;
     padding-top: 30px;
+    text-align: center;
 }
 
 .b_title {
-  color: whitesmoke;
-    padding-left: 30px;
-    padding-top: 30px;
+  color: burlywood;
+  text-align: center;
+}
+
+ol li{
+  list-style-position: inside;
+  
 }
 
 .ol_list {
-  color:whitesmoke;
+  color:burlywood;
   padding-top: 10px;
+  text-align: center;
 }
 
-  .process {
-    /*background-image: url('../resources/coffee_process.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: 100%;*/
-    background-color: burlywood;
-  }
+  
 
   .process_page_title {
-    color: black;
-    padding-left: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    color: burlywood;
   }
 
   .process_step {
-    padding-left: 30px;
+    text-align: center;
+    color: burlywood;
+    padding-top: 10px;
+    padding-bottom: 20px;
   }
 
   .paragraph {
-    color: black;
+    color: burlywood;
+    text-align: center;
   }
 
   .results {
@@ -101,16 +113,16 @@ p {
   }
 
   .source_title {
-    color: black;
-    padding-left: 30px;
-    padding-top: 30px;
+    color: burlywood;
     text-align: center;
+    padding-bottom: 20px;
     
   }
 
   .source_subtitles {
     text-align: center;
-    text-decoration: underline;
+    padding-bottom: 10px;
+    color: burlywood;
 }
   .source_articles {
     text-align: center;
@@ -124,11 +136,26 @@ p {
 
   .source_data {
     text-align: center;
+    color: burlywood;
+    text-decoration: none;
   }
 
-  .source_data ul {
+  .source_data ul li{
+    text-align: center;
+    color: burlywood;
+    list-style-type: none;
+  }
+
+  .source_data ul li a:hover {
+    background-color: burlywood;
+    color: #39414f;
+    border-radius: 5px;
+  }
+
+  .source_data ul li a{
     justify-content: center;
-    list-style: none;
+    color: burlywood;
+    padding: 2px;
   }
 
 
@@ -136,9 +163,18 @@ p {
 /*////////// Index Page ///////////////*/
 /*/////////////////////////////////////*/
 
+.main {
+  background-image: url('/resources/background_wood.jpg');
+}
+
 .index-images {
   height: 200px;
   width: 100%;
+}
+
+.index-main {
+  background-color: #39414f;
+  border-radius: 25px;
 }
 
 
@@ -164,6 +200,179 @@ p {
   padding-bottom: 20px;
 }
 
-.index-text-leaders {
+/* Index Page Text Colors */
 
+.index-main-process-text p{
+  text-align: center;
+  color: #39414f;
+}
+.index-main-scenario-text p{
+  color: #39414f;
+  text-align: center;
+}
+.index-main-results-text p{
+  color: #39414f;
+  text-align: center;
+}
+.index-main-ml-text p{
+  color: #39414f;
+  text-align: center;
+}
+.index-main-sources-text p{
+  color: #39414f;
+  text-align: center;
+}
+
+.index-main-process-text p:hover{
+  text-decoration: none;
+}
+.index-main-scenario-text p:hover{
+  text-decoration: none;
+}
+.index-main-results-text p:hover{
+  text-decoration: none;
+}
+.index-main-ml-text p:hover{
+  text-decoration: none;
+}
+.index-main-sources-text p:hover{
+  text-decoration: none;;
+}
+
+
+/*///////////////////////////////////////////*/
+/*/////////// Background Page ///////////////*/
+/*///////////////////////////////////////////*/
+
+.background-main {
+  background-color: #39414f;
+  border-radius: 25px;
+}
+
+.background-second-block {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.background-main-text {
+  padding-top: 30px;
+  text-align: center;
+}
+
+#background-line {
+  border: 1px solid burlywood;
+}
+
+.background-second-group{
+  text-align: center;
+}
+
+/*///////////////////////////////////////////*/
+/*///////////// Process Page ////////////////*/
+/*///////////////////////////////////////////*/
+
+.process {
+  background-image: url('/resources/coffee_process.jpg');
+}
+
+.process-main {
+  background-color: #39414f;
+  border-radius: 25px;
+  padding: 50px;
+}
+
+.process-title-container {
+  text-align: center;
+}
+
+#process-line {
+  border: 1px solid burlywood;
+}
+
+
+/*///////////////////////////////////////////*/
+/*///////////// Results Page ////////////////*/
+/*///////////////////////////////////////////*/
+.results {
+  background-image: url('/resources/background_wood.jpg');
+}
+
+.results-title {
+  color: burlywood;
+  text-align: center;
+}
+
+.tableau-item {
+  width:60%;
+  right: 20%;
+}
+
+/*///////////////////////////////////////////*/
+/*//////////////// ML Page //////////////////*/
+/*///////////////////////////////////////////*/
+.machine_learning {
+  background-image: url('/resources/mach_lrning.jpg');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.machln-container {
+  background-color: #39414f;
+  padding-bottom: 20px;
+}
+
+.machln-title {
+  color: burlywood;
+  text-align: center;
+}
+
+.machln-images {
+  height: 170px;
+  width: 95%;
+}
+
+.machln-images-primary {
+  height: 350px;
+  width: 80%;
+}
+
+.machln-title-primary {
+  color: burlywood;
+  text-align: center;
+}
+
+
+/*////////////////////////////////////////////////*/
+/*//////////////// Sources Page //////////////////*/
+/*////////////////////////////////////////////////*/
+.source_page {
+  background-image: url('/resources/background_wood.jpg');
+}
+
+.sources-container{ 
+  background-color: #39414f;
+  border-radius: 25px;
+  padding: 50px;
+}
+
+#sources-line {
+  border: 1px solid burlywood;
+}
+
+/*////////////////////////////////////////////////*/
+/*///////////////// Graph Pages //////////////////*/
+/*////////////////////////////////////////////////*/
+
+#graph-line {
+  border: 1px solid burlywood;
+}
+
+.title-machln {
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.machln-primary {
+  padding-bottom: 70px;
 }
