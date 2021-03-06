@@ -9,7 +9,7 @@ app = Flask(__name__)
 # prediction function 
 def ValuePredictor(to_predict_list): 
     to_predict = np.array([[to_predict_list]])
-    loaded_model = pickle.load(open("00_2_Econ_model_2features.ipynb", "rb")) 
+    loaded_model = pickle.load(open("z2_Economic_web_model_2_inputs.sav", "rb")) 
     result = loaded_model.predict(to_predict) 
     return result
 
