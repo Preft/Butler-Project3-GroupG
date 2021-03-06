@@ -164,7 +164,7 @@ ol li{
 /*/////////////////////////////////////*/
 
 .main {
-  background-image: url('/resources/background_wood.jpg');
+  background-image: url('../resources/background_wood.jpg');
 }
 
 .index-images {
@@ -272,7 +272,7 @@ ol li{
 /*///////////////////////////////////////////*/
 
 .process {
-  background-image: url('/resources/coffee_process.jpg');
+  background-image: url('../resources/coffee_process.jpg');
 }
 
 .process-main {
@@ -294,7 +294,7 @@ ol li{
 /*///////////// Results Page ////////////////*/
 /*///////////////////////////////////////////*/
 .results {
-  background-image: url('/resources/background_wood.jpg');
+  background-image: url('../resources/background_wood.jpg');
 }
 
 .results-title {
@@ -333,7 +333,7 @@ ol li{
 /*//////////////// ML Page //////////////////*/
 /*///////////////////////////////////////////*/
 .machine_learning {
-  background-image: url('/resources/mach_lrning.jpg');
+  background-image: url('../resources/mach_lrning.jpg');
   height: 100%;
   background-position: center;
   background-size: cover;
@@ -374,7 +374,7 @@ ol li{
 /*//////////////// Sources Page //////////////////*/
 /*////////////////////////////////////////////////*/
 .source_page {
-  background-image: url('/images/genericCoffephoto.png');
+  background-image: url('../images/genericCoffephoto.png');
   height: 100%;
   background-position: center;
   background-size: cover;
