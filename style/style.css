@@ -302,6 +302,10 @@ ol li{
   text-align: center;
 }
 
+.results-container {
+  background-color: #39414f;
+  border-radius: 25px;
+}
 .tableau-item {
   width:60%;
   right: 20%;
