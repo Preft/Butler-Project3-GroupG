@@ -1,5 +1,6 @@
 # import necessary libraries
 from flask import Flask, render_template, request
+import pickle
 import numpy as np
 import pickle
 
@@ -19,6 +20,7 @@ def ValuePredictor(to_predict_list):
     #loaded_model = pickle.load(open("ico_coffe.sav", "rb")) 
     #result = loaded_model.predict(to_predict) 
     #return result
+    ####   For testing
     return to_predict
 
 

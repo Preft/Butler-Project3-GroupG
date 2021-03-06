@@ -6,18 +6,20 @@
   <title>Retail Price</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
-
+  <link rel="stylesheet" href="static/css/style.css">
 </head>
 
 <body>
-  <div class="jumbotron text-center">
-    <!-- Render our data -->
-    <h2>Predicting Global Retail Coffee Price</h2>
-    <h3>Bassed on Year & ICO Composite  </h3>
-      <p>  </p>
+  
+    <p>  </p>
     </div> <!--Beginging of data entry-->
                                           <!--Date-->
       <div class="container"><!--Data begins-->
+        <div class="jumbotron text-center">
+          <!-- Render our data -->
+          <h2>Predicting Global Retail Coffee Price</h2>
+          <h3>Bassed on Year & ICO Composite  </h3>
+          <p>  </p>
         <form action="/" method="POST"> 
             <div class="row margin-top-50">
               <div class="col-md-2">
@@ -105,121 +107,131 @@
     </div>
    <!--   ###############          ###############    Section Two       ###############  ###############           --> 
    <!--   ###############          ###############                      ###############  ###############           --> 
-    <div class="jumbotron text-center">
+    
       <!-- Render our data -->
-      <h2>Predicting Global Retail Coffee Price</h2>
-      <h3>Year, Bassed on ICO Composite, and Brent Crude Price</h3>
-        <p>  </p>
+
         
-        </div> <!--Beginging of data entry-->
+      <!--Beginging of data entry-->
                                           <!--Date-->
       <div class="container"><!--Year begins-->
-        <form action="/brent" method="POST"> 
-            <div class="row margin-top-50">
-              <div class="col-md-2">
-                <aside class="filters">
-                  <div class="panel panel-default">
-                    <div class="panel-heading">Select Year</div>
-                    <div class="panel-body">
-                      
-                        <div class="form-group">
-                          <ul class="list-group" id="filters">
-                            <li class="filter list-group-item">
-                              <label for="year">(xxxx)</label>
-                              <input class="form-control" id="year" name="year" type="text" placeholder="1990">  
-                            </li>
-                          </ul>
-                        </div>
-                    
-                    </div>
-                  </div>
-                </aside>
-              </div>                            <!--ICO COMPOSITE-->
-              <div class="col-md-2">  <!--state begins button 1-->
-                <aside class="filters">
-                  <div class="panel panel-default">
-                    <div class="panel-heading">ICO Composite</div>
-                    <div class="panel-body">
-                      
-                        <div class="form-group">
-                          <ul class="list-group" id="filters">
-                            <li class="filter list-group-item">
-                              <label for="ico_cost">USD/lb</label>
-                              <input class="form-control" id="ico_cost" name="ico_cost" type="text" placeholder="0.86">
-                            </li>
-                          </ul>
-                        </div>
+        <div class="jumbotron text-center">
+          <h2>Predicting Global Retail Coffee Price</h2>
+          <h3>Year, Bassed on ICO Composite, and Brent Crude Price</h3>
+          <p>  </p>
+        
+        
+          <form action="/brent" method="POST"> 
+              <div class="row margin-top-50">
+                <div class="col-md-2">
+                  <aside class="filters">
+                    <div class="panel panel-default">
+                      <div class="panel-heading">Select Year</div>
+                      <div class="panel-body">
                         
+                          <div class="form-group">
+                            <ul class="list-group" id="filters">
+                              <li class="filter list-group-item">
+                                <label for="year">(xxxx)</label>
+                                <input class="form-control" id="year" name="year" type="text" placeholder="1990">  
+                              </li>
+                            </ul>
+                          </div>
                       
+                      </div>
                     </div>
-                  </div>
-                </aside>
-              </div>
-              <div class="col-md-2">  <!--Brent CRUDE -->
-                <aside class="filters">
-                  <div class="panel panel-default">
-                    <div class="panel-heading">Brent Crude </div>
-                    <div class="panel-body">
-                      
-                        <div class="form-group">
-                          <ul class="list-group" id="filters">
-                            <li class="filter list-group-item">
-                              <label for="ico_cost">USD/Barrel</label>
-                              <input class="form-control" id="brent" name="brent" type="text" placeholder="23.76">
-                            </li>
-                          </ul>
-                        </div>
+                  </aside>
+                </div>                            <!--ICO COMPOSITE-->
+                <div class="col-md-2">  <!--state begins button 1-->
+                  <aside class="filters">
+                    <div class="panel panel-default">
+                      <div class="panel-heading">ICO Composite</div>
+                      <div class="panel-body">
+                        
+                          <div class="form-group">
+                            <ul class="list-group" id="filters">
+                              <li class="filter list-group-item">
+                                <label for="ico_cost">USD/lb</label>
+                                <input class="form-control" id="ico_cost" name="ico_cost" type="text" placeholder="0.86">
+                              </li>
+                            </ul>
+                          </div>
+                          
+                        
+                      </div>
+                    </div>
+                  </aside>
+                </div>
+                <div class="col-md-2">  <!--Brent CRUDE -->
+                  <aside class="filters">
+                    <div class="panel panel-default">
+                      <div class="panel-heading">Brent Crude </div>
+                      <div class="panel-body">
+                        
+                          <div class="form-group">
+                            <ul class="list-group" id="filters">
+                              <li class="filter list-group-item">
+                                <label for="ico_cost">USD/Barrel</label>
+                                <input class="form-control" id="brent" name="brent" type="text" placeholder="23.76">
+                              </li>
+                            </ul>
+                          </div>
 
+                      </div>
                     </div>
-                  </div>
-                </aside>
-              </div>
-              <div class="col-md-2">  <!--City begins-->
-                <aside class="filters">
-                  <div class="panel panel-default">
-                    <div class="panel-heading">Enter</div>
-                    <div class="panel-body">
-                      
-                        <div class="form-group">
-                          <ul class="list-group" id="filters">
-                            <li class="filter list-group-item">
-                              <label for="sumbit"></label>
-                              
-                              <input type="submit" value="Submit"> 
-                            </li>
-                          </ul>
-                        </div>
+                  </aside>
+                </div>
+                <div class="col-md-2">  <!--City begins-->
+                  <aside class="filters">
+                    <div class="panel panel-default">
+                      <div class="panel-heading">Enter</div>
+                      <div class="panel-body">
                         
-                      
+                          <div class="form-group">
+                            <ul class="list-group" id="filters">
+                              <li class="filter list-group-item">
+                                <label for="sumbit"></label>
+                                
+                                <input type="submit" value="Submit"> 
+                              </li>
+                            </ul>
+                          </div>
+                          
+                        
+                      </div>
                     </div>
-                  </div>
-                </aside>
-              </div>
-              <div class="col-md-2">  <!--Country begins-->
-                <aside class="filters">
-                  <div class="panel panel-default">
-                    <div class="panel-heading">Predicted Value</div>
-                    <div class="panel-body">
-                      
-                        <div class="form-group">
-                          <ul class="list-group" id="filters">
-                            <li class="filter list-group-item">
-                              <label for="state">USD/lb</label>
-                              <h5> {{ Brent_predict }} </h5> 
-                            </li>
-                          </ul>
-                        </div>
-                      
+                  </aside>
+                </div>
+                <div class="col-md-2">  <!--Country begins-->
+                  <aside class="filters">
+                    <div class="panel panel-default">
+                      <div class="panel-heading">Predicted Value</div>
+                      <div class="panel-body">
+                        
+                          <div class="form-group">
+                            <ul class="list-group" id="filters">
+                              <li class="filter list-group-item">
+                                <label for="state">USD/lb</label>
+                                <h5> {{ Brent_predict }} </h5> 
+                              </li>
+                            </ul>
+                          </div>
+                        
+                      </div>
                     </div>
-                  </div>
-                </aside>
-              </div>
-          </div>
-        </form>
+                  </aside>
+                </div>
+            </div>
+          </form>
+        
       </div> 
-    </div>  
 
+  <div class="container">
+      
+        <span class="bottom">Coffee Production and Consumption 2021 &#174;</span>
+    
+  </div>
 
+  
 
 </body>
 
