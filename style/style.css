@@ -307,6 +307,24 @@ ol li{
   right: 20%;
 }
 
+.tableauViz {
+  width: 100%
+}
+
+.results-title-container {
+  padding-bottom: 30px;
+}
+
+#results-line {
+  border: 1px solid burlywood !important;
+}
+
+.tableau-titles {
+  text-align: center;
+  color: burlywood;
+  padding-bottom: 20px;
+}
+
 /*///////////////////////////////////////////*/
 /*//////////////// ML Page //////////////////*/
 /*///////////////////////////////////////////*/
@@ -342,12 +360,20 @@ ol li{
   text-align: center;
 }
 
+.machln-title-primary-1 {
+  color: burlywood;
+  text-align: center;
+}
+
 
 /*////////////////////////////////////////////////*/
 /*//////////////// Sources Page //////////////////*/
 /*////////////////////////////////////////////////*/
 .source_page {
-  background-image: url('/resources/background_wood.jpg');
+  background-image: url('/images/genericCoffephoto.png');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
 }
 
 .sources-container{ 
@@ -364,9 +390,14 @@ ol li{
 /*///////////////// Graph Pages //////////////////*/
 /*////////////////////////////////////////////////*/
 
-#graph-line {
+.graph-hr {
   border: 1px solid burlywood;
 }
+
+.hr-spacer {
+  padding-bottom: 70px;
+}
+
 
 .title-machln {
   padding-bottom: 40px;
