@@ -1,5 +1,5 @@
 
-<b><div align = "center">![cover_art.png](images/cover_art.png)</div></b>
+<b><div align = "center">![cover_art.png](presentation/images/cover_art.png)</div></b>
 
 <h1><b><div align = "center">Final Project Proposal: Group G</div></b></h1>
 <h3><b><div align = "center">Contributors</div></b></h3>
@@ -62,7 +62,7 @@ The International Coffee Organization (ICO) is a United Nations agency represent
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
 
 Data was obtained from ICO Coffee Dataset (Worldwide) hosted on Kaggle. This collection contained 13 csv files capturing distinct metrics regarding coffee economic data. Scope of files evaluated were : global production, global imports, inventories, prices-paid to growers, domestic consumption, and  retail prices.
-<b><div align = "center">![kaggle_Coffe_data_header.png](images/kaggle_Coffe_data_header.png)</div></b>
+<b><div align = "center">![kaggle_Coffe_data_header.png](presentation/images/kaggle_Coffe_data_header.png)</div></b>
 
 * [International Coffee Organization: Historical Data on the Global Coffee Trade](http://www.ico.org/new_historical.asp)
 
@@ -82,27 +82,27 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 <br/><br/>
 #### Graph A
-![historical_import_production_coffe.png](images/graphs/historical_import_production_coffe.png)
+![historical_import_production_coffe.png](presentation/images/graphs/historical_import_production_coffe.png)
 
 <br/><br/>
 <br/><br/>
 #### Graph B
-![historic_coffe_price.png](images/graphs/historic_coffe_price.png)
+![historic_coffe_price.png](presentation/images/graphs/historic_coffe_price.png)
 
 # Machine Learning
 
 ## Economic Model
 
-![data_graphic.png](images/data_graphic.png)
+![data_graphic.png](presentation/images/data_graphic.png)
 * Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets were composed of metric categories partitioned by year and country. Categories were averaged (i.e. price) or summed (i.e. crop production) by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.
 
 #### Top Features
-![original_features.png](images/original_features.png) 
+![original_features.png](presentation/images/original_features.png) 
 
 * A random forest regressor model (sklearn library) was chosen over a linear regression, model bassed on having the highest accuracy. Optimization of the model was evaluated by removing features bassed on accuracy of model and training scores (Table 1). After exploring multiple combinations of features three models were created. The first model contained nine-features with the least impactful one removed. The second model included the ICO Composite and the year. The final model contained ISO composite, year, and Brent annual average. The last two models will be considered for web deployment due to simplicity considerations. Graph C contrasts the nine-feature model predicted global retail price vs observed global retail price. The three models were saved in this repository.
 
 #### Feature Contribution
-![best_features.png](images/best_features.png)
+![best_features.png](presentation/images/best_features.png)
 
 #### Table 1.
 |Model|Model Score|Training Score|
@@ -120,7 +120,7 @@ Data evaluated was transformed into charts and interactive visualizations employ
 
 
 #### Graph C
-![Economic_model.png](images/graphs/Economic_model.png)
+![Economic_model.png](presentation/images/graphs/Economic_model.png)
 
 ## Environmental Model 
 
@@ -159,6 +159,3 @@ To be completed
 
 ### Final Web site
 * to be completed
-
-
-
