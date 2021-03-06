@@ -39,6 +39,21 @@
         </div>
       </div>
       <div class="row">
+        <div class="col-lg-12 machln-primary">
+          <div class="machln-title-primary">
+            <img class="machln-images-primary" src="images/data_graphic.png" alt="Process Page Image">
+            <div class="machln-images-primary-header-text">
+              <p>Eleven data sets were organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). The data sets were composed of metric categories partitioned by year and country. Categories were averaged (i.e. price) or summed (i.e. crop production) by year for each feature category to obtain global benchmarks for analysis. Each category of data was treated equally. 10 features were initially selected to train a machine learning model.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 hr-spacer">
+          <hr class="graph-hr">
+        </div>
+      </div>
+      <div class="row">
         <div class="col-lg-8 machln-primary">
           <div class="machln-title-primary">
             <img class="machln-images-primary" src="images/graphs/Economic_model.png" alt="Process Page Image">
@@ -47,7 +62,7 @@
         <div class="col-lg-4">
           <div class="machln-title-primary">
             <h2 class="ml-title-padd">Predicted Retail Price-Economic Model</h2>
-            <p>Graph contrasts the nine-feature model predicted global retail price vs observed global retail price.</p>
+            <p>A random forest regressor model (sklearn library) was chosen over a linear regression, model bassed on having the highest accuracy. Optimization of the model was evaluated by removing features bassed on accuracy of model and training scores (Table 1). After exploring multiple combinations of features three models were created. The first model contained nine-features with the least impactful one removed. The second model included the ICO Composite and the year. The final model contained ISO composite, year, and Brent annual average. The last two models will be considered for web deployment due to simplicity considerations. Graph C contrasts the nine-feature model predicted global retail price vs observed global retail price. The three models were saved in this repository.</p>
             <br>
             <div class="machln-app-link">
               <a href="https://butler-final-project-group-g.herokuapp.com/">Launch Price Predictor App</a>

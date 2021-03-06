@@ -360,6 +360,13 @@ ol li{
   width: 80%;
 }
 
+.machln-images-primary-header-text {
+  text-align: center;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 40px;
+}
+
 .machln-title-primary {
   color: burlywood;
   text-align: center;
@@ -386,7 +393,7 @@ ol li{
   background-color: burlywood;
   color: #39414f;
   border-radius: 5px;
-
+}
 /*////////////////////////////////////////////////*/
 /*//////////////// Sources Page //////////////////*/
 /*////////////////////////////////////////////////*/
