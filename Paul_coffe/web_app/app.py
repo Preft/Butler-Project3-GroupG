@@ -9,7 +9,7 @@ app = Flask(__name__)
 # prediction function 
 def ValuePredictor(to_predict_list): 
     to_predict = np.array([[to_predict_list]])
-    loaded_model = pickle.load(open("z2_Economic_web_model_2_inputs.sav", "rb")) 
+    loaded_model = pickle.load(open("ico_coffe.sav", "rb")) 
     result = loaded_model.predict(to_predict) 
     return result
 
@@ -27,7 +27,7 @@ def data_year():
         input_ICO = request.form['ico_cost']
         data = [input_year, input_ICO]
         prediction = ValuePredictor(data)
-        return render_template("index.html", prediction = data) 
+        return render_template("index.html", prediction = prediction) 
 
 if __name__ == "__main__":
     app.run(debug=True)

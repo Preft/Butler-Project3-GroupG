@@ -1,97 +1,116 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Templates 101</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <meta charset="utf-8">
+  <title>Retail Price</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+
 </head>
 
 <body>
-  <div class="container">
-
-    <div class="jumbotron text-center">
-      <!-- Render our data -->
-      <h1>Economic Model For Predicting Global Retail Price</h1>
-    </div>
-    <div class="4-col">
- 
-    
-      <div class="container"><!--YEAR begins-->
-        <form action="/" method="POST">
+  <div class="jumbotron text-center">
+    <!-- Render our data -->
+    <h2>Economic Model For Predicting Global Retail Coffee Price</h2>
+      <p>  </p>
+    </div> <!--Beginging of data entry-->
+                                          <!--Date-->
+      <div class="container"><!--Data begins-->
+        <form action="/" method="POST"> 
             <div class="row margin-top-50">
-            <div class="col-md-2">
+              <div class="col-md-2">
                 <aside class="filters">
-                <div class="panel panel-default">
-                    <div class="panel-heading"></div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading">Select Year</div>
                     <div class="panel-body">
-                    
+                      
                         <div class="form-group">
-                        <ul class="list-group" id="filters">
+                          <ul class="list-group" id="filters">
                             <li class="filter list-group-item">
-                            <label for="year">Enter Year (xxxx)</label>
-                            <input class="form-control" id="year" name="year" type="text" placeholder="1990">
-                            
+                              <label for="year">(xxxx)</label>
+                              <input class="form-control" id="year" name="year" type="text" placeholder="1990">  
                             </li>
-                        </ul>
+                          </ul>
+                        </div>
+                    
+                    </div>
+                  </div>
+                </aside>
+              </div>                            <!--State-->
+              <div class="col-md-2">  <!--state begins button 1-->
+                <aside class="filters">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">ICO Composite</div>
+                    <div class="panel-body">
+                      
+                        <div class="form-group">
+                          <ul class="list-group" id="filters">
+                            <li class="filter list-group-item">
+                              <label for="ico_cost">USD/lb</label>
+                              <input class="form-control" id="ico_cost" name="ico_cost" type="text" placeholder="0.86">
+                            </li>
+                          </ul>
                         </div>
                         
-                    
+                      
                     </div>
-                </div>
+                  </div>
                 </aside>
-            </div>                            <!--State-->
-            <div class="col-md-2">  <!--state begins button 1-->
+              </div>
+              <div class="col-md-2">  <!--City begins-->
                 <aside class="filters">
-                <div class="panel panel-default">
-                    <div class="panel-heading"></div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading">Year model</div>
                     <div class="panel-body">
-                    <form>
+                      
                         <div class="form-group">
-                        <ul class="list-group" id="filters">
+                          <ul class="list-group" id="filters">
                             <li class="filter list-group-item">
-                              <label for="ico_cost">ICO Composite</label>
-                              <input class="form-control" id="ico_cost" name="ico_cost" type="text" placeholder="0.86">                           
+                              <label for="sumbit">Enter</label>
+                              
+                              <input type="submit" value="Submit"> 
                             </li>
-                        </ul>
+                          </ul>
                         </div>
-                    </form>
-                    </div>
-                </div>
-                </aside>
-            </div>
-            <input type="submit" value="Submit">
-            </div>
-        </form>  
-          <div class="col-md-2">  <!--state begins button 1-->         
-            <div class="panel panel-default">
-                <div class="panel-heading"></div>
-                <div class="panel-body">
-                <form>
-                    <div class="form-group">
-                    
-                        <li class="filter list-group-item">
-                        <label for="state">Predicted Retal Value</label>
-                        <h5> {{ prediction }} </h5> 
                         
-                        </li>
-                    </ul>
+                      
                     </div>
-                </form>
-                </div>
-            </div>
-        </div>
-    
-    
+                  </div>
+                </aside>
+              </div>
+              <div class="col-md-2">  <!--Country begins-->
+                <aside class="filters">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">Predicted Retal Value</div>
+                    <div class="panel-body">
+                      
+                        <div class="form-group">
+                          <ul class="list-group" id="filters">
+                            <li class="filter list-group-item">
+                              <label for="state">Predicted Retal Value</label>
+                              <h5> {{ prediction }} </h5> 
+                            </li>
+                          </ul>
+                        </div>
+                      
+                    </div>
+                  </div>
+                </aside>
+              </div>
+          </div>
+        </form>
+      </div> 
     </div>
     <div class="4-col">
       <h2>Predicted Retail Price (USD)</h2>
       <h1> {{ prediction }}</h1> 
     </div>
-    
-  </div>
+        
+
+
+
+
 </body>
 
 </html>
