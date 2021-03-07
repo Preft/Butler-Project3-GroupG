@@ -105,7 +105,7 @@ Evaluated data was transformed into charts and interactive visualizations employ
 ![best_features.png](presentation/images/best_features.png)
 
 #### Table 1.
-|Model|Model Score|Training Score|
+|Model|Training Score|Test Score|
 |-----|-----------|--------------|
 |Random Forest 10 features|0.9592|0.9036|
 |Random Forest 1 featrues |0.9250|0.8262|
