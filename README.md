@@ -7,7 +7,6 @@
 <h4><b><div align = "center">Paul Hoogestraat</div></b></h4>
 <h4><b><div align = "center">	Brent Sergent</div></b></h4>
 
-
 # Objective:
 
 Identify key global economic trends to train a machine learning model for predicting the retail prices of coffee. Economic data considered will span from 1990 to 2018. The final model will attempt to predict the average global retail price for a pound of coffee.
@@ -20,7 +19,6 @@ Identify key global economic trends to train a machine learning model for predic
 5.	How has the price for coffee beans changed between 1990 and 2018?
 6.	Do energy prices impact coffee prices?
 7.	Can a machine learning model be developed to predict trending coffee prices?
-
 
 # Background:
 The International Coffee Organization (ICO) is a United Nations agency representing the world’s major coffee producers. This organization was founded in 1963 with the signing of the International Coffee agreement. In addition to representing interests of coffee producing nations, the organization hosts publicly available global economic data regarding supply, export, import, inventory, and pricing. A key metric created by this organization is the ICO composite indicator price, which is considered the benchmark for global coffee prices. The organization also provides global coffee retail prices which will be averaged to determine the retail price for a pound of coffee.
@@ -57,7 +55,6 @@ The International Coffee Organization (ICO) is a United Nations agency represent
   - [x] Refrences
 - [x] Integrate Heroku :
 
-
 # Data Sources
 * [Kaggle: ICO Coffee Dataset (Worldwide)](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide)
 
@@ -78,12 +75,9 @@ Historic data regarding WTI crude prices.
 <br/><br/>
 # Visualizations
 Evaluated data was transformed into charts and interactive visualizations employing Tableau. Economic trends were identified from the visualizations and incorporated into designing a data structure for machine learning. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. Examples:
-
 <br/><br/>
 #### Graph A
 ![historical_import_production_coffe.png](presentation/images/graphs/historical_import_production_coffe.png)
-
-<br/><br/>
 <br/><br/>
 #### Graph B
 ![historic_coffe_price.png](presentation/images/graphs/historic_coffe_price.png)
@@ -102,9 +96,6 @@ A random forest regressor model (sklearn library) was chosen over a linear regre
 
 #### Feature Contribution
 ![best_features.png](presentation/images/best_features.png)
-
-
-
 
 #### Graph C
 ![Economic_model.png](presentation/images/graphs/Economic_model.png)
