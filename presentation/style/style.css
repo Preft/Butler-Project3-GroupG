@@ -172,6 +172,15 @@ ol li{
   width: 100%;
 }
 
+.results-images {
+  height: 500px;
+  width: 100%;
+}
+
+.results-pad-bottom {
+  padding-bottom: 40px;
+}
+
 .index-main {
   background-color: #39414f;
   border-radius: 25px;

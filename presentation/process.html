@@ -61,13 +61,8 @@
           <h3 class="process_step">Evalute, design, and deploy a machine learning model</h3>
         </div>
         <div class="col-lg-12">
-          <h5 class="process_step">Weather Model</h5>
-          <p class="paragraph">Data was organized into six categories (Exports, Prices Paid to Growers, Precipitation, Temperature, Demand, and average price). The averages of these features were taken for each country and year. Weak linear correlations were used to determine future temperatures and preciptiation values for years past 2012. The accuracy of the models were looked at for both predicted weather values and known weather values.
-          </p>
-          <h5 class="process_step">Economic Model</h5>
-          <p class="paragraph">Data was organized into six categories (supply, demand, inventories, consumption, energy, ICO composite, and retail price). Each category of data was treated equally. 10 features were initially chosen from the data categories.
-            A random forest regressor model was chosen over a linear regressor model for highest accuracy. Initial results provided promising scores (table A). The five least impactful features identified by the model. After exploring multiple combinations of features, the least impactful feature was removed for a total of nine features.
-            The final model was trained with following results which can be found in table A. The model was then used to predict the average price of retail coffee bassed on the historic data used for training the model.
+          <p class="paragraph">
+            Data was analyzed and organized into features. The features were tested to find the correlation. The correlation results were used to determine the best machine learning method to use. The chosen machine learning method was then written and trained with the data. The accuracy of the training was reviewed. If a high degree of accuracy for the training, the test data was then run thru the model. The results of the testing data was used to optimize and refine the model. This process of review, analyze, and refine was continued until an iteration with the highest level of accuracy was achieved. When that final iteration is found, the model was then used to predict future values.
           </p>
         </div>
       </div>
