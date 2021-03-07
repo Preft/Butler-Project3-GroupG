@@ -102,7 +102,7 @@ A random forest regressor model (sklearn library) was chosen over a linear regre
 
 ## Environmental Model 
 
-An additional model was also considered to determine ICO composite pricing based on environmental factors combined with supply & demand.
+An additional model was considered to determine ICO composite pricing based on environmental factors combined with supply & demand.
 
 <b>Machine Learning (with linear regression)</b>
 * The model attempts to take the average of a year for all features and predict the average retail price of the importing countries
