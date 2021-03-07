@@ -145,5 +145,5 @@ Predicting coffee prices is a challenging endeavor with complex factors to consi
 * to be completed
 
 ### Price Predictor App
-[Global Retail Price](https://butler-final-project-group-g.herokuapp.com/)
+* [Global Retail Price](https://butler-final-project-group-g.herokuapp.com/)
             </div>
