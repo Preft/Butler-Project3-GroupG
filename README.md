@@ -75,7 +75,6 @@ Historic data regarding Brent crude prices.
 * [Macrotrends: Historic trends in WTI oil prices](https://www.macrotrends.net/2516/wti-crude-oil-prices-10-year-daily-chart)
 
 Historic data regarding WTI crude prices.
-
 <br/><br/>
 # Visualizations
 Evaluated data was transformed into charts and interactive visualizations employing Tableau. Economic trends were identified from the visualizations and incorporated into designing a data structure for machine learning. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. Examples:
