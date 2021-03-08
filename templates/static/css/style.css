@@ -8,8 +8,9 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  background: #883803;
+  background-color: #39414f;
 }
+
 
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
@@ -40,10 +41,13 @@ body {
   background: #1b3146;
 }
 
+.jumbotron {
+  border-radius: 25px;
+}
 
-
-
-
+.panel-heading {
+  border-radius: 25px;
+}
 
 .filters .panel-body {
   padding: 0;
@@ -60,8 +64,6 @@ select {
   color: #8e979f;
   outline: none;
 }
-
-
 
 .loader {
   margin-top: 50px;
