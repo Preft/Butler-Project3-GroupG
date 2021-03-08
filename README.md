@@ -120,7 +120,7 @@ Linear regression and random forest regressor models were both evaluated for mac
 
 The economic model was developed into an application that can be accessed via the website associated with this project. The models selected were based on the minimum number of features to simplify user interaction. The first model predicts global retail coffee price based ICO composite price and year (training score = 0.949, Test score 0.871). The second model also includes the annual average price of brent crude (training score = 0.956, Test score 0.914). Brent crude was identified as a key feature impacting accuracy. The intent of this feature was to incorporate energy prices into the model.
 
-Predicting coffee prices is a challenging endeavor with complex factors to consider. This exercise has demonstrated it is possible to predict retail coffee prices based on historical data. Given more time, a more dynamic could be developed to predict prices with greater accuracy. 
+Predicting coffee prices is a formidable  enterprise with complex factors to consider. This exercise demonstrated it is possible to predict retail coffee prices based on historical data. Given more time, a more dynamic could be developed to predict prices with greater accuracy. 
 
 
 # Refrences
