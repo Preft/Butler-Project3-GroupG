@@ -78,6 +78,7 @@ Evaluated data was transformed into charts and interactive visualizations employ
 <br/><br/>
 #### Graph A
 ![historical_import_production_coffe.png](presentation/images/graphs/historical_import_production_coffe.png)
+* Global production and Global exports represent ICO countires only.
 <br/><br/>
 #### Graph B
 ![historic_coffe_price.png](presentation/images/graphs/historic_coffe_price.png)
