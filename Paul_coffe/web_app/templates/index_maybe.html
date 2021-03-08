@@ -5,6 +5,7 @@
   <meta charset="utf-8">
   <title>Retail Price</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--This line impacts python flask-->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
   <link rel="stylesheet" href="static/css/style.css">
 </head>
@@ -12,13 +13,16 @@
 <body>
   
     <p>  </p>
-    </div> <!--Beginging of data entry-->
-                                          <!--Date-->
-      <div class="container"><!--Data begins-->
+    </div> <!--Model 1-->
+                                         
+      <div class="container">
         <div class="jumbotron text-center">
-          <!-- Render our data -->
-          <h2>Predicting Global Retail Coffee Price</h2>
-          <h3>Based on Year & ICO Composite  </h3>
+          <!-- Render data -->
+          <h3>Predicting Global Retail Coffee Price</h3>
+          <h4>Based on Year & ICO Composite  </h4>
+          <h5>Training Score: 0.9486</h5>
+          <h5>Test Score: 0.8712</h5>
+          <hr>
           <p>  </p>
         <form action="/" method="POST"> 
             <div class="row margin-top-50">
@@ -40,8 +44,8 @@
                     </div>
                   </div>
                 </aside>
-              </div>                            <!--State-->
-              <div class="col-md-2">  <!--state begins button 1-->
+              </div>                           
+              <div class="col-md-2">  <!--ICO Composite data-->
                 <aside class="filters">
                   <div class="panel panel-default">
                     <div class="panel-heading">ICO Composite</div>
@@ -61,7 +65,7 @@
                   </div>
                 </aside>
               </div>
-              <div class="col-md-2">  <!--City begins-->
+              <div class="col-md-2">  <!--submision-->
                 <aside class="filters">
                   <div class="panel panel-default">
                     <div class="panel-heading">Enter</div>
@@ -82,7 +86,7 @@
                   </div>
                 </aside>
               </div>
-              <div class="col-md-2">  <!--Country begins-->
+              <div class="col-md-2">  <!--Predicted value-->
                 <aside class="filters">
                   <div class="panel panel-default">
                     <div class="panel-heading">Predicted Value</div>
@@ -111,12 +115,15 @@
       <!-- Render our data -->
 
         
-      <!--Beginging of data entry-->
-                                          <!--Date-->
-      <div class="container"><!--Year begins-->
+      <!--Model 2-->
+                                         
+      <div class="container"><!--Seperate text-->
         <div class="jumbotron text-center">
-          <h2>Predicting Global Retail Coffee Price</h2>
-          <h3>Based on Year, ICO Composite, and Brent Crude Price</h3>
+          <h3>Predicting Global Retail Coffee Price</h3>
+          <h4>Based on Year, ICO Composite, and Brent Crude Price</h4>
+          <h5>Training Score: 0.9561</h5>
+          <h5>Test Score: 0.9139</h5>
+          <hr>
           <p>  </p>
         
         
@@ -189,9 +196,9 @@
                           <div class="form-group">
                             <ul class="list-group" id="filters">
                               <li class="filter list-group-item">
-                                <label for="sumbit"></label>
+                                <label for="Subit"></label>
                                 
-                                <input type="submit" value="Submit"> 
+                                <input type="Submit" value="Submit"> 
                               </li>
                             </ul>
                           </div>
