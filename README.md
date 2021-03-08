@@ -77,8 +77,9 @@ Historic data regarding WTI crude prices.
 Evaluated data was transformed into charts and interactive visualizations employing Tableau. Economic trends were identified from the visualizations and incorporated into designing a data structure for machine learning. Final visualizations were incorporated into the website and can also be located on the public Tableau website listed below in the references. Examples:
 <br/><br/>
 #### Graph A
-![historical_import_production_coffe.png](presentation/images/graphs/historical_import_production_coffe.png)
 * Global production and Global exports represent ICO countires only.
+![historical_import_production_coffe.png](presentation/images/graphs/historical_import_production_coffe.png)
+
 <br/><br/>
 #### Graph B
 ![historic_coffe_price.png](presentation/images/graphs/historic_coffe_price.png)
