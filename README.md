@@ -114,6 +114,8 @@ An additional model was considered to determine ICO composite pricing based on e
 # Website
 A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.
 
+https://preft.github.io/Butler-Project3-GroupG-Web/
+
 
 # Conclusion
 Predicting global coffee retail prices from public data is a challenging endeavor. Initial data collected from Kaggle contained transcription errors in some data sets. Supplementing the Kaggle data with the original data from the ICO had an impact on modeling performance.  Selecting data representing the process of coffee bean production, weather, exporting, importing, pricing, and consumption was critical to developing a model. Each data category or feature was reported by country and year. These features were summed or averaged by year to create a representation of a global process for each category. This enabled the direct comparison of diverse data sets. The global retail price was predicted with machine learning model based on the composite of these global process. The data normalization process prevents the prediction of retail prices by country. This might be addressed in future models.
